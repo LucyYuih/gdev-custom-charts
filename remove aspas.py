@@ -1,17 +1,13 @@
 #!/usr/bin/env python3
 """
-fix_json_charts_no_backup.py
+fix_json_charts_no_backup_v3.py
 
-- Percorre recursivamente uma pasta.
-- Remove aspas duplas externas do conteúdo de cada .json (primeiro/último caractere não-branco).
-- Se for JSON válido e contiver "ChartBF" ou "ChartDad" (strings), normaliza separadores
-  para ter exatamente dois espaços entre campos numéricos (e garante dois espaços antes de
-  palavras de metadata como "Eye Note").
-- Sobrescreve os arquivos sem criar backups.
-
-Uso:
-    python fix_json_charts_no_backup.py /caminho/para/pasta
-    python fix_json_charts_no_backup.py    # usa pasta atual
+Versão robusta:
+- Remove aspas externas.
+- Detecta e normaliza qualquer chave que contenha 'chart' (case-insensitive).
+- Normaliza strings/listas que pareçam chart (garante 2 espaços entre blocos; metadata interno com 1 espaço).
+- Se arquivo não for JSON, tenta normalizar trechos que parecem chart.
+- Sobrescreve sem backup.
 """
 import sys
 import os
@@ -19,7 +15,8 @@ import json
 import re
 from pathlib import Path
 
-NUM_RE = r'-?\d+(?:\.\d+)?'  # número inteiro ou float (com sinal opcional)
+NUM_RE = re.compile(r'^-?\d+(?:\.\d+)?$')  # inteiro ou float
+POSSIBLE_CHART_LINE = re.compile(r'(?:-?\d+(?:\.\d+)?\s+){5,}')  # 5+ números com espaços -> provável chart
 
 def read_file_try_encodings(path: Path):
     encs = ("utf-8", "utf-8-sig", "latin-1")
@@ -42,7 +39,7 @@ def remove_outer_quotes_from_text(text: str):
     leading_ws_len = len(text) - len(text.lstrip("\r\n\t "))
     trailing_ws_len = len(text) - len(text.rstrip("\r\n\t "))
     start_idx = leading_ws_len
-    end_idx = len(text) - trailing_ws_len  # exclusive
+    end_idx = len(text) - trailing_ws_len
     if start_idx >= end_idx:
         return text, False
     segment = text[start_idx:end_idx]
@@ -52,80 +49,141 @@ def remove_outer_quotes_from_text(text: str):
         return new_text, True
     return text, False
 
-def normalize_separators_for_chart(s: str) -> str:
-    """
-    Objetivo: garantir dois espaços entre campos numéricos no 'Chart' string,
-    sem quebrar metadata textual (ex: "Eye Note"). Regras aplicadas:
-    - Substitui repetidamente ocorrências de: number<single-space>number -> number<two-spaces>number
-    - Garante também dois espaços entre number e uma palavra (metadata) que venha depois.
-    - Não altera múltiplos espaços já corretos.
-    """
-    if not isinstance(s, str) or s.strip() == "":
+def is_numeric_token(tok: str) -> bool:
+    return NUM_RE.match(tok) is not None
+
+def normalize_chart_string(s: str) -> str:
+    if not isinstance(s, str):
+        return s
+    leading = re.match(r'^\s*', s).group(0)
+    trailing = re.search(r'\s*$', s).group(0)
+    body = s.strip()
+    if body == "":
         return s
 
-    # 1) Repetidamente transformar número<single_space>número -> número<2spaces>número
-    pattern_num_num = re.compile(rf'(?P<a>{NUM_RE}) (?P<b>{NUM_RE})')
-    prev = None
-    out = s
-    # loop até estabilizar (resolve cadeias com mais de um espaço faltando)
-    while prev != out:
-        prev = out
-        out = pattern_num_num.sub(r'\g<a>  \g<b>', out)
+    # split por qualquer whitespace
+    raw_tokens = re.split(r'\s+', body)
+    chunks = []
+    i = 0
+    n = len(raw_tokens)
+    while i < n:
+        tok = raw_tokens[i]
+        if is_numeric_token(tok):
+            chunks.append(tok)
+            i += 1
+        else:
+            meta = [tok]
+            i += 1
+            while i < n and not is_numeric_token(raw_tokens[i]):
+                meta.append(raw_tokens[i])
+                i += 1
+            chunks.append(' '.join(meta))
+    out = '  '.join(chunks)
+    return leading + out + trailing
 
-    # 2) Garantir dois espaços entre número e palavra (metadata) — ex: "0.00 Eye Note" -> "0.00  Eye Note"
-    # Usa lookahead para não engolir as palavras seguintes
-    pattern_num_word = re.compile(rf'(?P<a>{NUM_RE}) (?=(?:[A-Za-zÀ-ÿ]))')
-    out = pattern_num_word.sub(r'\g<a>  ', out)
-
-    # 3) Às vezes pode haver casos como "1  Eye Note" (com já 2 espaços) — ok.
-    # 4) Para segurança, evitar colapsar espaços em outras partes: não fazemos mais substituições.
-    return out
+def normalize_in_obj(obj):
+    """
+    Percorre recursivamente obj (dict/list) e normaliza strings/lists em chaves 'chart'
+    ou qualquer string que pareça chart.
+    Retorna (changed_bool)
+    """
+    changed = False
+    if isinstance(obj, dict):
+        for k in list(obj.keys()):
+            v = obj[k]
+            lk = k.lower()
+            # se a chave indica 'chart' (pegamos qualquer chave que contenha 'chart')
+            if 'chart' in lk:
+                # se for string
+                if isinstance(v, str):
+                    newv = normalize_chart_string(v)
+                    if newv != v:
+                        obj[k] = newv
+                        changed = True
+                # se for lista de strings
+                elif isinstance(v, list):
+                    newlist = []
+                    replaced = False
+                    for item in v:
+                        if isinstance(item, str):
+                            nv = normalize_chart_string(item)
+                            newlist.append(nv)
+                            if nv != item:
+                                replaced = True
+                                changed = True
+                        else:
+                            newlist.append(item)
+                    if replaced:
+                        obj[k] = newlist
+                else:
+                    # se outro tipo, tentamos percorrer recursivamente
+                    if normalize_in_obj(v):
+                        changed = True
+            else:
+                # caso a chave não contenha 'chart', ainda podemos ter strings longas que parecem chart
+                if isinstance(v, str):
+                    if POSSIBLE_CHART_LINE.search(v):
+                        nv = normalize_chart_string(v)
+                        if nv != v:
+                            obj[k] = nv
+                            changed = True
+                else:
+                    if normalize_in_obj(v):
+                        changed = True
+    elif isinstance(obj, list):
+        for idx, item in enumerate(obj):
+            if isinstance(item, str):
+                if POSSIBLE_CHART_LINE.search(item):
+                    nv = normalize_chart_string(item)
+                    if nv != item:
+                        obj[idx] = nv
+                        changed = True
+            else:
+                if normalize_in_obj(item):
+                    changed = True
+    # outros tipos não alterados
+    return changed
 
 def process_json_text(original_text: str):
-    """
-    Remove aspas externas e, se for JSON válido, normaliza ChartBF/ChartDad.
-    Retorna (new_text, changed_bool, reason)
-    """
     text_no_outer, removed_quote = remove_outer_quotes_from_text(original_text)
 
-    # tentar decodificar JSON
+    # tenta JSON
     try:
         obj = json.loads(text_no_outer)
     except Exception:
-        # não é JSON válido: apenas retornamos a remoção de aspas (se ocorreu) e ponto.
-        return text_no_outer, removed_quote, "texto (não json) - apenas remoção de aspas aplicada se necessário"
-
+        # texto não-json: busca trechos que pareçam chart e normaliza no texto bruto
+        text = text_no_outer
+        changed = removed_quote
+        def repl_match(m):
+            nonlocal changed
+            chunk = m.group(0)
+            newchunk = normalize_chart_string(chunk)
+            if newchunk != chunk:
+                changed = True
+            return newchunk
+        new_text = POSSIBLE_CHART_LINE.sub(repl_match, text)
+        return new_text, changed, "texto não-json (trechos normalizados se aplicável)"
+    # se json válido, percorre e normaliza
     changed = removed_quote
-    # se for dict, verificar keys
-    if isinstance(obj, dict):
-        for key in ("ChartBF", "ChartDad"):
-            if key in obj and isinstance(obj[key], str):
-                before = obj[key]
-                after = normalize_separators_for_chart(before)
-                if after != before:
-                    obj[key] = after
-                    changed = True
-    else:
-        # se for JSON mas não dicionário, não mexemos além da possível remoção de aspas
-        pass
-
-    # serializar de volta — sem indent, para não alterar muito o formato original
+    if normalize_in_obj(obj):
+        changed = True
+    if not changed:
+        return text_no_outer, False, "json sem alterações"
+    # serializa mantendo acentos e sem espaços extras
     new_text = json.dumps(obj, ensure_ascii=False, separators=(',', ':'))
-    return new_text, changed, "json modificado" if changed else "json sem alterações relevantes"
+    return new_text, True, "json modificado"
 
 def process_file(path: Path):
     try:
         content, encoding = read_file_try_encodings(path)
     except Exception as e:
         return False, f"erro lendo ({e})"
-
     new_content, changed, reason = process_json_text(content)
     if not changed:
         return False, reason
-
     try:
         write_file(path, new_content, encoding)
-        return True, reason + " (sobrescrito sem backup)"
+        return True, reason + " (sobrescrito)"
     except Exception as e:
         return False, f"falha ao salvar ({e})"
 
@@ -141,12 +199,9 @@ def walk_and_process(root: Path):
                     stats["changed"] += 1
                     print(f"[OK]  {full} -> {msg}")
                 else:
-                    if msg.startswith("json") or msg == "sem alteração necessária" or msg.startswith("texto (não json)"):
-                        # tratamos como skip informativo
-                        print(f"[SKIP]{full} -> {msg}")
-                    else:
+                    print(f"[SKIP]{full} -> {msg}" if msg.startswith(("json","texto")) else f"[ERR] {full} -> {msg}")
+                    if msg.startswith("erro"):
                         stats["errors"] += 1
-                        print(f"[ERR] {full} -> {msg}")
     return stats
 
 def main():
@@ -155,14 +210,13 @@ def main():
     if not root.exists() or not root.is_dir():
         print("Erro: pasta inválida:", root)
         sys.exit(1)
-
     print(f"Processando pasta: {root}")
-    print("Atenção: arquivos serão sobrescritos sem backup.")
+    print("Atenção: sobrescrevendo arquivos sem backup.")
     stats = walk_and_process(root)
     print("-----")
-    print(f"Arquivos .json verificados: {stats['processed']}")
-    print(f"Arquivos modificados: {stats['changed']}")
+    print(f"Verificados: {stats['processed']} .json")
+    print(f"Modificados: {stats['changed']}")
     print(f"Erros: {stats['errors']}")
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
