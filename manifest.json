@@ -8,6 +8,7 @@
     "Friday of Reflection",
     "In the Galaxy",
     "Kou 3.0",
+    "Mid-Fight Masses",
     "Notice Me Senpai (vs Cloud)",
     "Nyanstep Recharted - By LucyYuih",
     "OsuSongs",
@@ -2481,6 +2482,317 @@
       "name": "twinkle-hard_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Kou 3.0/twinkle/twinkle-hard_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses": [
+    "casanova",
+    "gospel",
+    "parish",
+    "tutorial-remix",
+    "worship",
+    "zavodila"
+  ],
+  "Mid-Fight Masses/casanova": [
+    "alt",
+    "hard"
+  ],
+  "Mid-Fight Masses/casanova/alt": [
+    {
+      "name": "casanova-alt normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/casanova/alt/casanova-alt normal ChartBF.json"
+    },
+    {
+      "name": "casanova-alt normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/casanova/alt/casanova-alt normal ChartDad.json"
+    },
+    {
+      "name": "casanova-alt_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/casanova/alt/casanova-alt_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses/casanova/hard": [
+    {
+      "name": "casanova-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/casanova/hard/casanova-hard normal ChartBF.json"
+    },
+    {
+      "name": "casanova-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/casanova/hard/casanova-hard normal ChartDad.json"
+    },
+    {
+      "name": "casanova-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/casanova/hard/casanova-hard_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses/gospel": [
+    "alt",
+    "hard"
+  ],
+  "Mid-Fight Masses/gospel/alt": [
+    {
+      "name": "casanova-alt normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/alt/casanova-alt normal ChartBF.json"
+    },
+    {
+      "name": "casanova-alt normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/alt/casanova-alt normal ChartDad.json"
+    },
+    {
+      "name": "casanova-alt_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/alt/casanova-alt_normal_metadata.json"
+    },
+    {
+      "name": "gospel-alt normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/alt/gospel-alt normal ChartBF.json"
+    },
+    {
+      "name": "gospel-alt normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/alt/gospel-alt normal ChartDad.json"
+    },
+    {
+      "name": "gospel-alt_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/alt/gospel-alt_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses/gospel/hard": [
+    {
+      "name": "gospel-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/hard/gospel-hard normal ChartBF.json"
+    },
+    {
+      "name": "gospel-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/hard/gospel-hard normal ChartDad.json"
+    },
+    {
+      "name": "gospel-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/hard/gospel-hard_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses/parish": [
+    "alt",
+    "hard"
+  ],
+  "Mid-Fight Masses/parish/alt": [
+    {
+      "name": "casanova-alt normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/alt/casanova-alt normal ChartBF.json"
+    },
+    {
+      "name": "casanova-alt normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/alt/casanova-alt normal ChartDad.json"
+    },
+    {
+      "name": "casanova-alt_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/alt/casanova-alt_normal_metadata.json"
+    },
+    {
+      "name": "parish-alt normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/alt/parish-alt normal ChartBF.json"
+    },
+    {
+      "name": "parish-alt normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/alt/parish-alt normal ChartDad.json"
+    },
+    {
+      "name": "parish-alt_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/alt/parish-alt_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses/parish/hard": [
+    {
+      "name": "parish-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/hard/parish-hard normal ChartBF.json"
+    },
+    {
+      "name": "parish-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/hard/parish-hard normal ChartDad.json"
+    },
+    {
+      "name": "parish-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/hard/parish-hard_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses/tutorial-remix": [
+    "alt",
+    "hard"
+  ],
+  "Mid-Fight Masses/tutorial-remix/alt": [
+    {
+      "name": "casanova-alt normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/alt/casanova-alt normal ChartBF.json"
+    },
+    {
+      "name": "casanova-alt normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/alt/casanova-alt normal ChartDad.json"
+    },
+    {
+      "name": "casanova-alt_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/alt/casanova-alt_normal_metadata.json"
+    },
+    {
+      "name": "tutorial-remix-alt normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/alt/tutorial-remix-alt normal ChartBF.json"
+    },
+    {
+      "name": "tutorial-remix-alt normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/alt/tutorial-remix-alt normal ChartDad.json"
+    },
+    {
+      "name": "tutorial-remix-alt_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/alt/tutorial-remix-alt_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses/tutorial-remix/hard": [
+    {
+      "name": "tutorial-remix-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/hard/tutorial-remix-hard normal ChartBF.json"
+    },
+    {
+      "name": "tutorial-remix-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/hard/tutorial-remix-hard normal ChartDad.json"
+    },
+    {
+      "name": "tutorial-remix-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/hard/tutorial-remix-hard_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses/worship": [
+    "alt",
+    "hard"
+  ],
+  "Mid-Fight Masses/worship/alt": [
+    {
+      "name": "casanova-alt normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/alt/casanova-alt normal ChartBF.json"
+    },
+    {
+      "name": "casanova-alt normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/alt/casanova-alt normal ChartDad.json"
+    },
+    {
+      "name": "casanova-alt_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/alt/casanova-alt_normal_metadata.json"
+    },
+    {
+      "name": "worship-alt normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/alt/worship-alt normal ChartBF.json"
+    },
+    {
+      "name": "worship-alt normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/alt/worship-alt normal ChartDad.json"
+    },
+    {
+      "name": "worship-alt_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/alt/worship-alt_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses/worship/hard": [
+    {
+      "name": "worship-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/hard/worship-hard normal ChartBF.json"
+    },
+    {
+      "name": "worship-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/hard/worship-hard normal ChartDad.json"
+    },
+    {
+      "name": "worship-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/hard/worship-hard_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses/zavodila": [
+    "alt",
+    "hard"
+  ],
+  "Mid-Fight Masses/zavodila/alt": [
+    {
+      "name": "casanova-alt normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/alt/casanova-alt normal ChartBF.json"
+    },
+    {
+      "name": "casanova-alt normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/alt/casanova-alt normal ChartDad.json"
+    },
+    {
+      "name": "casanova-alt_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/alt/casanova-alt_normal_metadata.json"
+    },
+    {
+      "name": "zavodila-alt normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/alt/zavodila-alt normal ChartBF.json"
+    },
+    {
+      "name": "zavodila-alt normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/alt/zavodila-alt normal ChartDad.json"
+    },
+    {
+      "name": "zavodila-alt_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/alt/zavodila-alt_normal_metadata.json"
+    }
+  ],
+  "Mid-Fight Masses/zavodila/hard": [
+    {
+      "name": "zavodila-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/hard/zavodila-hard normal ChartBF.json"
+    },
+    {
+      "name": "zavodila-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/hard/zavodila-hard normal ChartDad.json"
+    },
+    {
+      "name": "zavodila-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/hard/zavodila-hard_normal_metadata.json"
     }
   ],
   "Notice Me Senpai (vs Cloud)": [
