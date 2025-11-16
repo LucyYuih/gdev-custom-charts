@@ -21,6 +21,7 @@
     "Vs Agoti",
     "Vs Camellia 2.5",
     "Vs Huggy Wuggy",
+    "Vs Huggy Wuggy Expansion",
     "Vs Impostor V4",
     "Vs Little Man 2",
     "Vs Mouse 2.5",
@@ -6605,6 +6606,284 @@
       "name": "playtime-hard_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy/playtime/playtime-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion": [
+    "against-a-monster",
+    "bloody-night",
+    "bob",
+    "forgotten-both",
+    "let's-plaaay",
+    "play",
+    "playboth",
+    "playground",
+    "playruntime",
+    "playzmatic",
+    "ron",
+    "run"
+  ],
+  "Vs Huggy Wuggy Expansion/against-a-monster": [
+    {
+      "name": "against-a-monster-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/against-a-monster/against-a-monster-hard normal ChartBF.json"
+    },
+    {
+      "name": "against-a-monster-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/against-a-monster/against-a-monster-hard normal ChartDad.json"
+    },
+    {
+      "name": "against-a-monster-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/against-a-monster/against-a-monster-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/against-a-monster/merged_audio.aac"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion/bloody-night": [
+    {
+      "name": "bloody-night-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/bloody-night/bloody-night-hard normal ChartBF.json"
+    },
+    {
+      "name": "bloody-night-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/bloody-night/bloody-night-hard normal ChartDad.json"
+    },
+    {
+      "name": "bloody-night-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/bloody-night/bloody-night-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/bloody-night/merged_audio.aac"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion/bob": [
+    {
+      "name": "bob normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/bob/bob normal ChartBF.json"
+    },
+    {
+      "name": "bob normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/bob/bob normal ChartDad.json"
+    },
+    {
+      "name": "bob_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/bob/bob_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/bob/merged_audio.aac"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion/forgotten-both": [
+    {
+      "name": "forgotten-both-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/forgotten-both/forgotten-both-hard normal ChartBF.json"
+    },
+    {
+      "name": "forgotten-both-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/forgotten-both/forgotten-both-hard normal ChartDad.json"
+    },
+    {
+      "name": "forgotten-both-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/forgotten-both/forgotten-both-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/forgotten-both/merged_audio.aac"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion/let's-plaaay": [
+    {
+      "name": "let's-plaaay-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/let's-plaaay/let's-plaaay-hard normal ChartBF.json"
+    },
+    {
+      "name": "let's-plaaay-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/let's-plaaay/let's-plaaay-hard normal ChartDad.json"
+    },
+    {
+      "name": "let's-plaaay-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/let's-plaaay/let's-plaaay-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/let's-plaaay/merged_audio.aac"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion/play": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/play/merged_audio.aac"
+    },
+    {
+      "name": "play-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/play/play-hard normal ChartBF.json"
+    },
+    {
+      "name": "play-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/play/play-hard normal ChartDad.json"
+    },
+    {
+      "name": "play-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/play/play-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion/playboth": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playboth/merged_audio.aac"
+    },
+    {
+      "name": "playboth-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playboth/playboth-hard normal ChartBF.json"
+    },
+    {
+      "name": "playboth-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playboth/playboth-hard normal ChartDad.json"
+    },
+    {
+      "name": "playboth-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playboth/playboth-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion/playground": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playground/merged_audio.aac"
+    },
+    {
+      "name": "playground-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playground/playground-hard normal ChartBF.json"
+    },
+    {
+      "name": "playground-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playground/playground-hard normal ChartDad.json"
+    },
+    {
+      "name": "playground-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playground/playground-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion/playruntime": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playruntime/merged_audio.aac"
+    },
+    {
+      "name": "playruntime-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playruntime/playruntime-hard normal ChartBF.json"
+    },
+    {
+      "name": "playruntime-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playruntime/playruntime-hard normal ChartDad.json"
+    },
+    {
+      "name": "playruntime-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playruntime/playruntime-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion/playzmatic": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playzmatic/merged_audio.aac"
+    },
+    {
+      "name": "playzmatic-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playzmatic/playzmatic-hard normal ChartBF.json"
+    },
+    {
+      "name": "playzmatic-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playzmatic/playzmatic-hard normal ChartDad.json"
+    },
+    {
+      "name": "playzmatic-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/playzmatic/playzmatic-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion/ron": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/ron/merged_audio.aac"
+    },
+    {
+      "name": "ron normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/ron/ron normal ChartBF.json"
+    },
+    {
+      "name": "ron normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/ron/ron normal ChartDad.json"
+    },
+    {
+      "name": "ron_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/ron/ron_normal_metadata.json"
+    }
+  ],
+  "Vs Huggy Wuggy Expansion/run": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/run/merged_audio.aac"
+    },
+    {
+      "name": "run normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/run/run normal ChartBF.json"
+    },
+    {
+      "name": "run normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/run/run normal ChartDad.json"
+    },
+    {
+      "name": "run_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy Expansion/run/run_normal_metadata.json"
     }
   ],
   "Vs Impostor V4": [
