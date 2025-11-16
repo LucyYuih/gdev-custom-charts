@@ -12,6 +12,7 @@
     "Nyanstep Recharted - By LucyYuih",
     "OsuSongs",
     "Peculiar colours",
+    "Poppy Funktime (DEMO)",
     "Sayori Explores The World Of FNF Mods",
     "Sunday Night Suicide The Final",
     "Unlabeled Anime Mod",
@@ -19,6 +20,7 @@
     "Voiid Chronicles",
     "Vs Agoti",
     "Vs Camellia 2.5",
+    "Vs Huggy Wuggy",
     "Vs Impostor V4",
     "Vs Little Man 2",
     "Vs Mouse 2.5",
@@ -3194,6 +3196,54 @@
       "name": "non-compos-mentis-hard_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Peculiar colours/non-compos-mentis/non-compos-mentis-hard_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime (DEMO)": [
+    "hugs",
+    "squish"
+  ],
+  "Poppy Funktime (DEMO)/hugs": [
+    {
+      "name": "hugs-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime (DEMO)/hugs/hugs-hard normal ChartBF.json"
+    },
+    {
+      "name": "hugs-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime (DEMO)/hugs/hugs-hard normal ChartDad.json"
+    },
+    {
+      "name": "hugs-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime (DEMO)/hugs/hugs-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime (DEMO)/hugs/merged_audio.aac"
+    }
+  ],
+  "Poppy Funktime (DEMO)/squish": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime (DEMO)/squish/merged_audio.aac"
+    },
+    {
+      "name": "squish-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime (DEMO)/squish/squish-hard normal ChartBF.json"
+    },
+    {
+      "name": "squish-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime (DEMO)/squish/squish-hard normal ChartDad.json"
+    },
+    {
+      "name": "squish-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime (DEMO)/squish/squish-hard_normal_metadata.json"
     }
   ],
   "Sayori Explores The World Of FNF Mods": [
@@ -6530,6 +6580,31 @@
       "name": "why-do-you-hate-me-hard_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Camellia 2.5/why-do-you-hate-me/why-do-you-hate-me-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Huggy Wuggy": [
+    "playtime"
+  ],
+  "Vs Huggy Wuggy/playtime": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy/playtime/merged_audio.aac"
+    },
+    {
+      "name": "playtime-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy/playtime/playtime-hard normal ChartBF.json"
+    },
+    {
+      "name": "playtime-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy/playtime/playtime-hard normal ChartDad.json"
+    },
+    {
+      "name": "playtime-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Huggy Wuggy/playtime/playtime-hard_normal_metadata.json"
     }
   ],
   "Vs Impostor V4": [
