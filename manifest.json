@@ -2536,21 +2536,6 @@
   ],
   "Mid-Fight Masses/gospel/alt": [
     {
-      "name": "casanova-alt normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/alt/casanova-alt normal ChartBF.json"
-    },
-    {
-      "name": "casanova-alt normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/alt/casanova-alt normal ChartDad.json"
-    },
-    {
-      "name": "casanova-alt_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/alt/casanova-alt_normal_metadata.json"
-    },
-    {
       "name": "gospel-alt normal ChartBF.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/gospel/alt/gospel-alt normal ChartBF.json"
@@ -2588,21 +2573,6 @@
     "hard"
   ],
   "Mid-Fight Masses/parish/alt": [
-    {
-      "name": "casanova-alt normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/alt/casanova-alt normal ChartBF.json"
-    },
-    {
-      "name": "casanova-alt normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/alt/casanova-alt normal ChartDad.json"
-    },
-    {
-      "name": "casanova-alt_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/parish/alt/casanova-alt_normal_metadata.json"
-    },
     {
       "name": "parish-alt normal ChartBF.json",
       "type": "file",
@@ -2642,21 +2612,6 @@
   ],
   "Mid-Fight Masses/tutorial-remix/alt": [
     {
-      "name": "casanova-alt normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/alt/casanova-alt normal ChartBF.json"
-    },
-    {
-      "name": "casanova-alt normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/alt/casanova-alt normal ChartDad.json"
-    },
-    {
-      "name": "casanova-alt_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/alt/casanova-alt_normal_metadata.json"
-    },
-    {
       "name": "tutorial-remix-alt normal ChartBF.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/tutorial-remix/alt/tutorial-remix-alt normal ChartBF.json"
@@ -2695,21 +2650,6 @@
   ],
   "Mid-Fight Masses/worship/alt": [
     {
-      "name": "casanova-alt normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/alt/casanova-alt normal ChartBF.json"
-    },
-    {
-      "name": "casanova-alt normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/alt/casanova-alt normal ChartDad.json"
-    },
-    {
-      "name": "casanova-alt_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/alt/casanova-alt_normal_metadata.json"
-    },
-    {
       "name": "worship-alt normal ChartBF.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/worship/alt/worship-alt normal ChartBF.json"
@@ -2747,21 +2687,6 @@
     "hard"
   ],
   "Mid-Fight Masses/zavodila/alt": [
-    {
-      "name": "casanova-alt normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/alt/casanova-alt normal ChartBF.json"
-    },
-    {
-      "name": "casanova-alt normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/alt/casanova-alt normal ChartDad.json"
-    },
-    {
-      "name": "casanova-alt_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Mid-Fight Masses/zavodila/alt/casanova-alt_normal_metadata.json"
-    },
     {
       "name": "zavodila-alt normal ChartBF.json",
       "type": "file",
