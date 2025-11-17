@@ -15,6 +15,7 @@
     "Peculiar colours",
     "Poppy Funktime (DEMO)",
     "Sayori Explores The World Of FNF Mods",
+    "Sunday Night Suicide",
     "Sunday Night Suicide The Final",
     "Unlabeled Anime Mod",
     "VS. Kapi Arcade Showdown",
@@ -26,9 +27,12 @@
     "Vs Impostor V4",
     "Vs Little Man 2",
     "Vs Mouse 2.5",
+    "Vs Selever 2.1",
     "Vs Shaggy",
+    "Vs Sky Reborn",
     "Vs Sonic.exe",
     "Vs Starecrown Definitive Edition",
+    "Vs Tabi (Legacy)",
     "Vs Zardy",
     "Vs. Virus R",
     "Wii Funkin V3",
@@ -5589,6 +5593,118 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/victory-solo-x/victory-solo-x-hard_normal_metadata.json"
     }
   ],
+  "Sunday Night Suicide": [
+    "happy",
+    "really-happy",
+    "smile",
+    "tutorial",
+    "unhappy"
+  ],
+  "Sunday Night Suicide/happy": [
+    {
+      "name": "happy-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/happy/happy-hard normal ChartBF.json"
+    },
+    {
+      "name": "happy-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/happy/happy-hard normal ChartDad.json"
+    },
+    {
+      "name": "happy-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/happy/happy-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/happy/merged_audio.aac"
+    }
+  ],
+  "Sunday Night Suicide/really-happy": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/really-happy/merged_audio.aac"
+    },
+    {
+      "name": "really-happy-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/really-happy/really-happy-hard normal ChartBF.json"
+    },
+    {
+      "name": "really-happy-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/really-happy/really-happy-hard normal ChartDad.json"
+    },
+    {
+      "name": "really-happy-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/really-happy/really-happy-hard_normal_metadata.json"
+    }
+  ],
+  "Sunday Night Suicide/smile": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/smile/merged_audio.aac"
+    },
+    {
+      "name": "smile-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/smile/smile-hard normal ChartBF.json"
+    },
+    {
+      "name": "smile-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/smile/smile-hard normal ChartDad.json"
+    },
+    {
+      "name": "smile-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/smile/smile-hard_normal_metadata.json"
+    }
+  ],
+  "Sunday Night Suicide/tutorial": [
+    {
+      "name": "tutorial-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/tutorial/tutorial-hard normal ChartBF.json"
+    },
+    {
+      "name": "tutorial-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/tutorial/tutorial-hard normal ChartDad.json"
+    },
+    {
+      "name": "tutorial-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/tutorial/tutorial-hard_normal_metadata.json"
+    }
+  ],
+  "Sunday Night Suicide/unhappy": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/unhappy/merged_audio.aac"
+    },
+    {
+      "name": "unhappy-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/unhappy/unhappy-hard normal ChartBF.json"
+    },
+    {
+      "name": "unhappy-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/unhappy/unhappy-hard normal ChartDad.json"
+    },
+    {
+      "name": "unhappy-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Sunday Night Suicide/unhappy/unhappy-hard_normal_metadata.json"
+    }
+  ],
   "Sunday Night Suicide The Final": [
     "faceless",
     "monochrome",
@@ -9276,6 +9392,146 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Mouse 2.5/you-cant-run/you-cant-run-hard_normal_metadata.json"
     }
   ],
+  "Vs Selever 2.1": [
+    "agitated_remix",
+    "attack",
+    "attacklovania",
+    "casanova",
+    "crimsong",
+    "demonila"
+  ],
+  "Vs Selever 2.1/agitated_remix": [
+    {
+      "name": "agitated_remix-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/agitated_remix/agitated_remix-hard normal ChartBF.json"
+    },
+    {
+      "name": "agitated_remix-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/agitated_remix/agitated_remix-hard normal ChartDad.json"
+    },
+    {
+      "name": "agitated_remix-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/agitated_remix/agitated_remix-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/agitated_remix/merged_audio.aac"
+    }
+  ],
+  "Vs Selever 2.1/attack": [
+    {
+      "name": "attack-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/attack/attack-hard normal ChartBF.json"
+    },
+    {
+      "name": "attack-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/attack/attack-hard normal ChartDad.json"
+    },
+    {
+      "name": "attack-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/attack/attack-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/attack/merged_audio.aac"
+    }
+  ],
+  "Vs Selever 2.1/attacklovania": [
+    {
+      "name": "attacklovania-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/attacklovania/attacklovania-hard normal ChartBF.json"
+    },
+    {
+      "name": "attacklovania-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/attacklovania/attacklovania-hard normal ChartDad.json"
+    },
+    {
+      "name": "attacklovania-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/attacklovania/attacklovania-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/attacklovania/merged_audio.aac"
+    }
+  ],
+  "Vs Selever 2.1/casanova": [
+    {
+      "name": "casanova-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/casanova/casanova-hard normal ChartBF.json"
+    },
+    {
+      "name": "casanova-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/casanova/casanova-hard normal ChartDad.json"
+    },
+    {
+      "name": "casanova-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/casanova/casanova-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/casanova/merged_audio.aac"
+    }
+  ],
+  "Vs Selever 2.1/crimsong": [
+    {
+      "name": "crimsong-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/crimsong/crimsong-hard normal ChartBF.json"
+    },
+    {
+      "name": "crimsong-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/crimsong/crimsong-hard normal ChartDad.json"
+    },
+    {
+      "name": "crimsong-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/crimsong/crimsong-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/crimsong/merged_audio.aac"
+    }
+  ],
+  "Vs Selever 2.1/demonila": [
+    {
+      "name": "demonila-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/demonila/demonila-hard normal ChartBF.json"
+    },
+    {
+      "name": "demonila-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/demonila/demonila-hard normal ChartDad.json"
+    },
+    {
+      "name": "demonila-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/demonila/demonila-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Selever 2.1/demonila/merged_audio.aac"
+    }
+  ],
   "Vs Shaggy": [
     "astral-calamity",
     "big-shot",
@@ -9575,6 +9831,284 @@
       "name": "merged_audio.aac",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Shaggy/where-are-you/merged_audio.aac"
+    }
+  ],
+  "Vs Sky Reborn": [
+    "manifest",
+    "manifest-erect",
+    "manifest-pico(mix)",
+    "scenecore",
+    "sky",
+    "sky-erect",
+    "sky-lyrics",
+    "sky-mobile",
+    "sky-pico(mix)",
+    "wife-forever",
+    "wife-forever-erect",
+    "wife-forever-pico(mix)"
+  ],
+  "Vs Sky Reborn/manifest": [
+    {
+      "name": "manifest-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest/manifest-hard normal ChartBF.json"
+    },
+    {
+      "name": "manifest-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest/manifest-hard normal ChartDad.json"
+    },
+    {
+      "name": "manifest-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest/manifest-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest/merged_audio.aac"
+    }
+  ],
+  "Vs Sky Reborn/manifest-erect": [
+    {
+      "name": "manifest-erect-erect normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest-erect/manifest-erect-erect normal ChartBF.json"
+    },
+    {
+      "name": "manifest-erect-erect normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest-erect/manifest-erect-erect normal ChartDad.json"
+    },
+    {
+      "name": "manifest-erect-erect_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest-erect/manifest-erect-erect_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest-erect/merged_audio.aac"
+    }
+  ],
+  "Vs Sky Reborn/manifest-pico(mix)": [
+    {
+      "name": "manifest-pico(mix)-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest-pico(mix)/manifest-pico(mix)-hard normal ChartBF.json"
+    },
+    {
+      "name": "manifest-pico(mix)-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest-pico(mix)/manifest-pico(mix)-hard normal ChartDad.json"
+    },
+    {
+      "name": "manifest-pico(mix)-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest-pico(mix)/manifest-pico(mix)-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/manifest-pico(mix)/merged_audio.aac"
+    }
+  ],
+  "Vs Sky Reborn/scenecore": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/scenecore/merged_audio.aac"
+    },
+    {
+      "name": "scenecore-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/scenecore/scenecore-hard normal ChartBF.json"
+    },
+    {
+      "name": "scenecore-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/scenecore/scenecore-hard normal ChartDad.json"
+    },
+    {
+      "name": "scenecore-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/scenecore/scenecore-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Sky Reborn/sky": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky/merged_audio.aac"
+    },
+    {
+      "name": "sky-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky/sky-hard normal ChartBF.json"
+    },
+    {
+      "name": "sky-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky/sky-hard normal ChartDad.json"
+    },
+    {
+      "name": "sky-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky/sky-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Sky Reborn/sky-erect": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-erect/merged_audio.aac"
+    },
+    {
+      "name": "sky-erect-erect normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-erect/sky-erect-erect normal ChartBF.json"
+    },
+    {
+      "name": "sky-erect-erect normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-erect/sky-erect-erect normal ChartDad.json"
+    },
+    {
+      "name": "sky-erect-erect_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-erect/sky-erect-erect_normal_metadata.json"
+    }
+  ],
+  "Vs Sky Reborn/sky-lyrics": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-lyrics/merged_audio.aac"
+    },
+    {
+      "name": "sky-lyrics-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-lyrics/sky-lyrics-hard normal ChartBF.json"
+    },
+    {
+      "name": "sky-lyrics-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-lyrics/sky-lyrics-hard normal ChartDad.json"
+    },
+    {
+      "name": "sky-lyrics-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-lyrics/sky-lyrics-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Sky Reborn/sky-mobile": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-mobile/merged_audio.aac"
+    },
+    {
+      "name": "sky-mobile-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-mobile/sky-mobile-hard normal ChartBF.json"
+    },
+    {
+      "name": "sky-mobile-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-mobile/sky-mobile-hard normal ChartDad.json"
+    },
+    {
+      "name": "sky-mobile-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-mobile/sky-mobile-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Sky Reborn/sky-pico(mix)": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-pico(mix)/merged_audio.aac"
+    },
+    {
+      "name": "sky-pico(mix)-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-pico(mix)/sky-pico(mix)-hard normal ChartBF.json"
+    },
+    {
+      "name": "sky-pico(mix)-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-pico(mix)/sky-pico(mix)-hard normal ChartDad.json"
+    },
+    {
+      "name": "sky-pico(mix)-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/sky-pico(mix)/sky-pico(mix)-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Sky Reborn/wife-forever": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever/merged_audio.aac"
+    },
+    {
+      "name": "wife-forever-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever/wife-forever-hard normal ChartBF.json"
+    },
+    {
+      "name": "wife-forever-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever/wife-forever-hard normal ChartDad.json"
+    },
+    {
+      "name": "wife-forever-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever/wife-forever-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Sky Reborn/wife-forever-erect": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever-erect/merged_audio.aac"
+    },
+    {
+      "name": "wife-forever-erect-nightmare normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever-erect/wife-forever-erect-nightmare normal ChartBF.json"
+    },
+    {
+      "name": "wife-forever-erect-nightmare normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever-erect/wife-forever-erect-nightmare normal ChartDad.json"
+    },
+    {
+      "name": "wife-forever-erect-nightmare_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever-erect/wife-forever-erect-nightmare_normal_metadata.json"
+    }
+  ],
+  "Vs Sky Reborn/wife-forever-pico(mix)": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever-pico(mix)/merged_audio.aac"
+    },
+    {
+      "name": "wife-forever-pico(mix)-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever-pico(mix)/wife-forever-pico(mix)-hard normal ChartBF.json"
+    },
+    {
+      "name": "wife-forever-pico(mix)-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever-pico(mix)/wife-forever-pico(mix)-hard normal ChartDad.json"
+    },
+    {
+      "name": "wife-forever-pico(mix)-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Sky Reborn/wife-forever-pico(mix)/wife-forever-pico(mix)-hard_normal_metadata.json"
     }
   ],
   "Vs Sonic.exe": [
@@ -10315,6 +10849,77 @@
       "name": "unblinking_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Starecrown Definitive Edition/unblinking/unblinking_normal_metadata.json"
+    }
+  ],
+  "Vs Tabi (Legacy)": [
+    "genocide",
+    "last-chance",
+    "my-battle"
+  ],
+  "Vs Tabi (Legacy)/genocide": [
+    {
+      "name": "genocide-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/genocide/genocide-hard normal ChartBF.json"
+    },
+    {
+      "name": "genocide-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/genocide/genocide-hard normal ChartDad.json"
+    },
+    {
+      "name": "genocide-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/genocide/genocide-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/genocide/merged_audio.aac"
+    }
+  ],
+  "Vs Tabi (Legacy)/last-chance": [
+    {
+      "name": "last-chance-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/last-chance/last-chance-hard normal ChartBF.json"
+    },
+    {
+      "name": "last-chance-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/last-chance/last-chance-hard normal ChartDad.json"
+    },
+    {
+      "name": "last-chance-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/last-chance/last-chance-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/last-chance/merged_audio.aac"
+    }
+  ],
+  "Vs Tabi (Legacy)/my-battle": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/my-battle/merged_audio.aac"
+    },
+    {
+      "name": "my-battle-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/my-battle/my-battle-hard normal ChartBF.json"
+    },
+    {
+      "name": "my-battle-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/my-battle/my-battle-hard normal ChartDad.json"
+    },
+    {
+      "name": "my-battle-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Tabi (Legacy)/my-battle/my-battle-hard_normal_metadata.json"
     }
   ],
   "Vs Zardy": [
