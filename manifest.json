@@ -6,6 +6,7 @@
     "Doki Doki Takeover Plus",
     "Friday Night Funkin'",
     "Friday of Reflection",
+    "Funkadelix",
     "In the Galaxy",
     "Kou 3.0",
     "Mid-Fight Masses",
@@ -26,6 +27,7 @@
     "Vs Huggy Wuggy Expansion",
     "Vs Impostor V4",
     "Vs Little Man 2",
+    "Vs Matt",
     "Vs Mouse 2.5",
     "Vs Selever 2.1",
     "Vs Shaggy",
@@ -2119,6 +2121,215 @@
       "name": "timeless-old-hard_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Friday of Reflection/Timeless-Old/timeless-old-hard_normal_metadata.json"
+    }
+  ],
+  "Funkadelix": [
+    "bopeebo",
+    "dad-battle",
+    "fresh",
+    "leaked",
+    "philly-nice",
+    "south",
+    "spookeez",
+    "themesong",
+    "tutorial"
+  ],
+  "Funkadelix/bopeebo": [
+    {
+      "name": "bopeebo-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/bopeebo/bopeebo-hard normal ChartBF.json"
+    },
+    {
+      "name": "bopeebo-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/bopeebo/bopeebo-hard normal ChartDad.json"
+    },
+    {
+      "name": "bopeebo-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/bopeebo/bopeebo-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/bopeebo/merged_audio.aac"
+    }
+  ],
+  "Funkadelix/dad-battle": [
+    {
+      "name": "dad-battle-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/dad-battle/dad-battle-hard normal ChartBF.json"
+    },
+    {
+      "name": "dad-battle-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/dad-battle/dad-battle-hard normal ChartDad.json"
+    },
+    {
+      "name": "dad-battle-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/dad-battle/dad-battle-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/dad-battle/merged_audio.aac"
+    }
+  ],
+  "Funkadelix/fresh": [
+    {
+      "name": "fresh-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/fresh/fresh-hard normal ChartBF.json"
+    },
+    {
+      "name": "fresh-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/fresh/fresh-hard normal ChartDad.json"
+    },
+    {
+      "name": "fresh-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/fresh/fresh-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/fresh/merged_audio.aac"
+    }
+  ],
+  "Funkadelix/leaked": [
+    {
+      "name": "leaked-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/leaked/leaked-hard normal ChartBF.json"
+    },
+    {
+      "name": "leaked-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/leaked/leaked-hard normal ChartDad.json"
+    },
+    {
+      "name": "leaked-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/leaked/leaked-hard_normal_metadata.json"
+    },
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/leaked/merged_audio.aac"
+    }
+  ],
+  "Funkadelix/philly-nice": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/philly-nice/merged_audio.aac"
+    },
+    {
+      "name": "philly-nice-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/philly-nice/philly-nice-hard normal ChartBF.json"
+    },
+    {
+      "name": "philly-nice-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/philly-nice/philly-nice-hard normal ChartDad.json"
+    },
+    {
+      "name": "philly-nice-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/philly-nice/philly-nice-hard_normal_metadata.json"
+    }
+  ],
+  "Funkadelix/south": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/south/merged_audio.aac"
+    },
+    {
+      "name": "south-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/south/south-hard normal ChartBF.json"
+    },
+    {
+      "name": "south-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/south/south-hard normal ChartDad.json"
+    },
+    {
+      "name": "south-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/south/south-hard_normal_metadata.json"
+    }
+  ],
+  "Funkadelix/spookeez": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/spookeez/merged_audio.aac"
+    },
+    {
+      "name": "spookeez-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/spookeez/spookeez-hard normal ChartBF.json"
+    },
+    {
+      "name": "spookeez-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/spookeez/spookeez-hard normal ChartDad.json"
+    },
+    {
+      "name": "spookeez-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/spookeez/spookeez-hard_normal_metadata.json"
+    }
+  ],
+  "Funkadelix/themesong": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/themesong/merged_audio.aac"
+    },
+    {
+      "name": "themesong-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/themesong/themesong-hard normal ChartBF.json"
+    },
+    {
+      "name": "themesong-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/themesong/themesong-hard normal ChartDad.json"
+    },
+    {
+      "name": "themesong-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/themesong/themesong-hard_normal_metadata.json"
+    }
+  ],
+  "Funkadelix/tutorial": [
+    {
+      "name": "merged_audio.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/tutorial/merged_audio.aac"
+    },
+    {
+      "name": "tutorial-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/tutorial/tutorial-hard normal ChartBF.json"
+    },
+    {
+      "name": "tutorial-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/tutorial/tutorial-hard normal ChartDad.json"
+    },
+    {
+      "name": "tutorial-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Funkadelix/tutorial/tutorial-hard_normal_metadata.json"
     }
   ],
   "In the Galaxy": [
@@ -8703,6 +8914,1180 @@
       "name": "merged_audio.aac",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Little Man 2/madness/merged_audio.aac"
+    }
+  ],
+  "Vs Matt": [
+    "boxing-match",
+    "champion",
+    "combat",
+    "deathmatch",
+    "endless-battle",
+    "fisticuffs",
+    "fists-up",
+    "king-hit",
+    "king-hit-fefe",
+    "light-it-up",
+    "opponent",
+    "power-link",
+    "ruckus",
+    "sporting",
+    "target-practice",
+    "tko",
+    "war-of-honour",
+    "wind-up"
+  ],
+  "Vs Matt/boxing-match": [
+    "dx",
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/boxing-match/dx": [
+    {
+      "name": "boxing-match-dx normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/dx/boxing-match-dx normal ChartBF.json"
+    },
+    {
+      "name": "boxing-match-dx normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/dx/boxing-match-dx normal ChartDad.json"
+    },
+    {
+      "name": "boxing-match-dx.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/dx/boxing-match-dx.aac"
+    },
+    {
+      "name": "boxing-match-dx_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/dx/boxing-match-dx_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/boxing-match/easy": [
+    {
+      "name": "boxing-match-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/easy/boxing-match-easy normal ChartBF.json"
+    },
+    {
+      "name": "boxing-match-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/easy/boxing-match-easy normal ChartDad.json"
+    },
+    {
+      "name": "boxing-match-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/easy/boxing-match-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/boxing-match/hard": [
+    {
+      "name": "boxing-match-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/hard/boxing-match-hard normal ChartBF.json"
+    },
+    {
+      "name": "boxing-match-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/hard/boxing-match-hard normal ChartDad.json"
+    },
+    {
+      "name": "boxing-match-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/hard/boxing-match-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/boxing-match/normal": [
+    {
+      "name": "boxing-match normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/normal/boxing-match normal ChartBF.json"
+    },
+    {
+      "name": "boxing-match normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/normal/boxing-match normal ChartDad.json"
+    },
+    {
+      "name": "boxing-match_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/boxing-match/normal/boxing-match_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/champion": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/champion/easy": [
+    {
+      "name": "champion-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/champion/easy/champion-easy normal ChartBF.json"
+    },
+    {
+      "name": "champion-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/champion/easy/champion-easy normal ChartDad.json"
+    },
+    {
+      "name": "champion-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/champion/easy/champion-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/champion/hard": [
+    {
+      "name": "champion-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/champion/hard/champion-hard normal ChartBF.json"
+    },
+    {
+      "name": "champion-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/champion/hard/champion-hard normal ChartDad.json"
+    },
+    {
+      "name": "champion-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/champion/hard/champion-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/champion/normal": [
+    {
+      "name": "champion normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/champion/normal/champion normal ChartBF.json"
+    },
+    {
+      "name": "champion normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/champion/normal/champion normal ChartDad.json"
+    },
+    {
+      "name": "champion_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/champion/normal/champion_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/combat": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/combat/easy": [
+    {
+      "name": "combat-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/combat/easy/combat-easy normal ChartBF.json"
+    },
+    {
+      "name": "combat-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/combat/easy/combat-easy normal ChartDad.json"
+    },
+    {
+      "name": "combat-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/combat/easy/combat-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/combat/hard": [
+    {
+      "name": "combat-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/combat/hard/combat-hard normal ChartBF.json"
+    },
+    {
+      "name": "combat-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/combat/hard/combat-hard normal ChartDad.json"
+    },
+    {
+      "name": "combat-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/combat/hard/combat-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/combat/normal": [
+    {
+      "name": "combat normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/combat/normal/combat normal ChartBF.json"
+    },
+    {
+      "name": "combat normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/combat/normal/combat normal ChartDad.json"
+    },
+    {
+      "name": "combat_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/combat/normal/combat_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/deathmatch": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/deathmatch/easy": [
+    {
+      "name": "deathmatch-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/deathmatch/easy/deathmatch-easy normal ChartBF.json"
+    },
+    {
+      "name": "deathmatch-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/deathmatch/easy/deathmatch-easy normal ChartDad.json"
+    },
+    {
+      "name": "deathmatch-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/deathmatch/easy/deathmatch-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/deathmatch/hard": [
+    {
+      "name": "deathmatch-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/deathmatch/hard/deathmatch-hard normal ChartBF.json"
+    },
+    {
+      "name": "deathmatch-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/deathmatch/hard/deathmatch-hard normal ChartDad.json"
+    },
+    {
+      "name": "deathmatch-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/deathmatch/hard/deathmatch-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/deathmatch/normal": [
+    {
+      "name": "deathmatch normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/deathmatch/normal/deathmatch normal ChartBF.json"
+    },
+    {
+      "name": "deathmatch normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/deathmatch/normal/deathmatch normal ChartDad.json"
+    },
+    {
+      "name": "deathmatch_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/deathmatch/normal/deathmatch_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/endless-battle": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/endless-battle/easy": [
+    {
+      "name": "endless-battle-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/endless-battle/easy/endless-battle-easy normal ChartBF.json"
+    },
+    {
+      "name": "endless-battle-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/endless-battle/easy/endless-battle-easy normal ChartDad.json"
+    },
+    {
+      "name": "endless-battle-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/endless-battle/easy/endless-battle-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/endless-battle/hard": [
+    {
+      "name": "endless-battle-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/endless-battle/hard/endless-battle-hard normal ChartBF.json"
+    },
+    {
+      "name": "endless-battle-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/endless-battle/hard/endless-battle-hard normal ChartDad.json"
+    },
+    {
+      "name": "endless-battle-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/endless-battle/hard/endless-battle-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/endless-battle/normal": [
+    {
+      "name": "endless-battle normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/endless-battle/normal/endless-battle normal ChartBF.json"
+    },
+    {
+      "name": "endless-battle normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/endless-battle/normal/endless-battle normal ChartDad.json"
+    },
+    {
+      "name": "endless-battle_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/endless-battle/normal/endless-battle_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/fisticuffs": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/fisticuffs/easy": [
+    {
+      "name": "fisticuffs-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fisticuffs/easy/fisticuffs-easy normal ChartBF.json"
+    },
+    {
+      "name": "fisticuffs-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fisticuffs/easy/fisticuffs-easy normal ChartDad.json"
+    },
+    {
+      "name": "fisticuffs-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fisticuffs/easy/fisticuffs-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/fisticuffs/hard": [
+    {
+      "name": "fisticuffs-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fisticuffs/hard/fisticuffs-hard normal ChartBF.json"
+    },
+    {
+      "name": "fisticuffs-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fisticuffs/hard/fisticuffs-hard normal ChartDad.json"
+    },
+    {
+      "name": "fisticuffs-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fisticuffs/hard/fisticuffs-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/fisticuffs/normal": [
+    {
+      "name": "fisticuffs normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fisticuffs/normal/fisticuffs normal ChartBF.json"
+    },
+    {
+      "name": "fisticuffs normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fisticuffs/normal/fisticuffs normal ChartDad.json"
+    },
+    {
+      "name": "fisticuffs_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fisticuffs/normal/fisticuffs_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/fists-up": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/fists-up/easy": [
+    {
+      "name": "fists-up-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fists-up/easy/fists-up-easy normal ChartBF.json"
+    },
+    {
+      "name": "fists-up-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fists-up/easy/fists-up-easy normal ChartDad.json"
+    },
+    {
+      "name": "fists-up-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fists-up/easy/fists-up-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/fists-up/hard": [
+    {
+      "name": "fists-up-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fists-up/hard/fists-up-hard normal ChartBF.json"
+    },
+    {
+      "name": "fists-up-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fists-up/hard/fists-up-hard normal ChartDad.json"
+    },
+    {
+      "name": "fists-up-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fists-up/hard/fists-up-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/fists-up/normal": [
+    {
+      "name": "fists-up normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fists-up/normal/fists-up normal ChartBF.json"
+    },
+    {
+      "name": "fists-up normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fists-up/normal/fists-up normal ChartDad.json"
+    },
+    {
+      "name": "fists-up_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/fists-up/normal/fists-up_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/king-hit": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/king-hit/easy": [
+    {
+      "name": "king-hit-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit/easy/king-hit-easy normal ChartBF.json"
+    },
+    {
+      "name": "king-hit-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit/easy/king-hit-easy normal ChartDad.json"
+    },
+    {
+      "name": "king-hit-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit/easy/king-hit-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/king-hit/hard": [
+    {
+      "name": "king-hit-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit/hard/king-hit-hard normal ChartBF.json"
+    },
+    {
+      "name": "king-hit-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit/hard/king-hit-hard normal ChartDad.json"
+    },
+    {
+      "name": "king-hit-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit/hard/king-hit-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/king-hit/normal": [
+    {
+      "name": "king-hit normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit/normal/king-hit normal ChartBF.json"
+    },
+    {
+      "name": "king-hit normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit/normal/king-hit normal ChartDad.json"
+    },
+    {
+      "name": "king-hit_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit/normal/king-hit_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/king-hit-fefe": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/king-hit-fefe/easy": [
+    {
+      "name": "king-hit-fefe-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit-fefe/easy/king-hit-fefe-easy normal ChartBF.json"
+    },
+    {
+      "name": "king-hit-fefe-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit-fefe/easy/king-hit-fefe-easy normal ChartDad.json"
+    },
+    {
+      "name": "king-hit-fefe-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit-fefe/easy/king-hit-fefe-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/king-hit-fefe/hard": [
+    {
+      "name": "king-hit-fefe-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit-fefe/hard/king-hit-fefe-hard normal ChartBF.json"
+    },
+    {
+      "name": "king-hit-fefe-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit-fefe/hard/king-hit-fefe-hard normal ChartDad.json"
+    },
+    {
+      "name": "king-hit-fefe-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit-fefe/hard/king-hit-fefe-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/king-hit-fefe/normal": [
+    {
+      "name": "king-hit-fefe normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit-fefe/normal/king-hit-fefe normal ChartBF.json"
+    },
+    {
+      "name": "king-hit-fefe normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit-fefe/normal/king-hit-fefe normal ChartDad.json"
+    },
+    {
+      "name": "king-hit-fefe_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/king-hit-fefe/normal/king-hit-fefe_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/light-it-up": [
+    "easy",
+    "hard",
+    "normal",
+    "old"
+  ],
+  "Vs Matt/light-it-up/easy": [
+    {
+      "name": "light-it-up-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/easy/light-it-up-easy normal ChartBF.json"
+    },
+    {
+      "name": "light-it-up-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/easy/light-it-up-easy normal ChartDad.json"
+    },
+    {
+      "name": "light-it-up-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/easy/light-it-up-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/light-it-up/hard": [
+    {
+      "name": "light-it-up-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/hard/light-it-up-hard normal ChartBF.json"
+    },
+    {
+      "name": "light-it-up-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/hard/light-it-up-hard normal ChartDad.json"
+    },
+    {
+      "name": "light-it-up-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/hard/light-it-up-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/light-it-up/normal": [
+    {
+      "name": "light-it-up normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/normal/light-it-up normal ChartBF.json"
+    },
+    {
+      "name": "light-it-up normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/normal/light-it-up normal ChartDad.json"
+    },
+    {
+      "name": "light-it-up_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/normal/light-it-up_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/light-it-up/old": [
+    {
+      "name": "light-it-up-old normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/old/light-it-up-old normal ChartBF.json"
+    },
+    {
+      "name": "light-it-up-old normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/old/light-it-up-old normal ChartDad.json"
+    },
+    {
+      "name": "light-it-up-old_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/light-it-up/old/light-it-up-old_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/opponent": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/opponent/easy": [
+    {
+      "name": "opponent-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/opponent/easy/opponent-easy normal ChartBF.json"
+    },
+    {
+      "name": "opponent-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/opponent/easy/opponent-easy normal ChartDad.json"
+    },
+    {
+      "name": "opponent-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/opponent/easy/opponent-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/opponent/hard": [
+    {
+      "name": "opponent-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/opponent/hard/opponent-hard normal ChartBF.json"
+    },
+    {
+      "name": "opponent-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/opponent/hard/opponent-hard normal ChartDad.json"
+    },
+    {
+      "name": "opponent-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/opponent/hard/opponent-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/opponent/normal": [
+    {
+      "name": "opponent normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/opponent/normal/opponent normal ChartBF.json"
+    },
+    {
+      "name": "opponent normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/opponent/normal/opponent normal ChartDad.json"
+    },
+    {
+      "name": "opponent_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/opponent/normal/opponent_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/power-link": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/power-link/easy": [
+    {
+      "name": "power-link-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/power-link/easy/power-link-easy normal ChartBF.json"
+    },
+    {
+      "name": "power-link-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/power-link/easy/power-link-easy normal ChartDad.json"
+    },
+    {
+      "name": "power-link-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/power-link/easy/power-link-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/power-link/hard": [
+    {
+      "name": "power-link-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/power-link/hard/power-link-hard normal ChartBF.json"
+    },
+    {
+      "name": "power-link-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/power-link/hard/power-link-hard normal ChartDad.json"
+    },
+    {
+      "name": "power-link-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/power-link/hard/power-link-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/power-link/normal": [
+    {
+      "name": "power-link normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/power-link/normal/power-link normal ChartBF.json"
+    },
+    {
+      "name": "power-link normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/power-link/normal/power-link normal ChartDad.json"
+    },
+    {
+      "name": "power-link_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/power-link/normal/power-link_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/ruckus": [
+    "dx",
+    "easy",
+    "hard",
+    "normal",
+    "old"
+  ],
+  "Vs Matt/ruckus/dx": [
+    {
+      "name": "ruckus-dx normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/dx/ruckus-dx normal ChartBF.json"
+    },
+    {
+      "name": "ruckus-dx normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/dx/ruckus-dx normal ChartDad.json"
+    },
+    {
+      "name": "ruckus-dx.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/dx/ruckus-dx.aac"
+    },
+    {
+      "name": "ruckus-dx_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/dx/ruckus-dx_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/ruckus/easy": [
+    {
+      "name": "ruckus-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/easy/ruckus-easy normal ChartBF.json"
+    },
+    {
+      "name": "ruckus-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/easy/ruckus-easy normal ChartDad.json"
+    },
+    {
+      "name": "ruckus-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/easy/ruckus-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/ruckus/hard": [
+    {
+      "name": "ruckus-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/hard/ruckus-hard normal ChartBF.json"
+    },
+    {
+      "name": "ruckus-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/hard/ruckus-hard normal ChartDad.json"
+    },
+    {
+      "name": "ruckus-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/hard/ruckus-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/ruckus/normal": [
+    {
+      "name": "ruckus normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/normal/ruckus normal ChartBF.json"
+    },
+    {
+      "name": "ruckus normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/normal/ruckus normal ChartDad.json"
+    },
+    {
+      "name": "ruckus_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/normal/ruckus_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/ruckus/old": [
+    {
+      "name": "ruckus-old normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/old/ruckus-old normal ChartBF.json"
+    },
+    {
+      "name": "ruckus-old normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/old/ruckus-old normal ChartDad.json"
+    },
+    {
+      "name": "ruckus-old_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/ruckus/old/ruckus-old_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/sporting": [
+    "dx",
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/sporting/dx": [
+    {
+      "name": "sporting-dx normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/dx/sporting-dx normal ChartBF.json"
+    },
+    {
+      "name": "sporting-dx normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/dx/sporting-dx normal ChartDad.json"
+    },
+    {
+      "name": "sporting-dx.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/dx/sporting-dx.aac"
+    },
+    {
+      "name": "sporting-dx_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/dx/sporting-dx_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/sporting/easy": [
+    {
+      "name": "sporting-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/easy/sporting-easy normal ChartBF.json"
+    },
+    {
+      "name": "sporting-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/easy/sporting-easy normal ChartDad.json"
+    },
+    {
+      "name": "sporting-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/easy/sporting-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/sporting/hard": [
+    {
+      "name": "sporting-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/hard/sporting-hard normal ChartBF.json"
+    },
+    {
+      "name": "sporting-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/hard/sporting-hard normal ChartDad.json"
+    },
+    {
+      "name": "sporting-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/hard/sporting-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/sporting/normal": [
+    {
+      "name": "sporting normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/normal/sporting normal ChartBF.json"
+    },
+    {
+      "name": "sporting normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/normal/sporting normal ChartDad.json"
+    },
+    {
+      "name": "sporting_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/sporting/normal/sporting_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/target-practice": [
+    "dx",
+    "easy",
+    "hard",
+    "normal",
+    "old"
+  ],
+  "Vs Matt/target-practice/dx": [
+    {
+      "name": "target-practice-dx normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/dx/target-practice-dx normal ChartBF.json"
+    },
+    {
+      "name": "target-practice-dx normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/dx/target-practice-dx normal ChartDad.json"
+    },
+    {
+      "name": "target-practice-dx.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/dx/target-practice-dx.aac"
+    },
+    {
+      "name": "target-practice-dx_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/dx/target-practice-dx_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/target-practice/easy": [
+    {
+      "name": "target-practice-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/easy/target-practice-easy normal ChartBF.json"
+    },
+    {
+      "name": "target-practice-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/easy/target-practice-easy normal ChartDad.json"
+    },
+    {
+      "name": "target-practice-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/easy/target-practice-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/target-practice/hard": [
+    {
+      "name": "target-practice-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/hard/target-practice-hard normal ChartBF.json"
+    },
+    {
+      "name": "target-practice-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/hard/target-practice-hard normal ChartDad.json"
+    },
+    {
+      "name": "target-practice-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/hard/target-practice-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/target-practice/normal": [
+    {
+      "name": "target-practice normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/normal/target-practice normal ChartBF.json"
+    },
+    {
+      "name": "target-practice normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/normal/target-practice normal ChartDad.json"
+    },
+    {
+      "name": "target-practice_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/normal/target-practice_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/target-practice/old": [
+    {
+      "name": "target-practice-old normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/old/target-practice-old normal ChartBF.json"
+    },
+    {
+      "name": "target-practice-old normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/old/target-practice-old normal ChartDad.json"
+    },
+    {
+      "name": "target-practice-old_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/target-practice/old/target-practice-old_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/tko": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/tko/easy": [
+    {
+      "name": "tko-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/tko/easy/tko-easy normal ChartBF.json"
+    },
+    {
+      "name": "tko-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/tko/easy/tko-easy normal ChartDad.json"
+    },
+    {
+      "name": "tko-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/tko/easy/tko-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/tko/hard": [
+    {
+      "name": "tko-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/tko/hard/tko-hard normal ChartBF.json"
+    },
+    {
+      "name": "tko-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/tko/hard/tko-hard normal ChartDad.json"
+    },
+    {
+      "name": "tko-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/tko/hard/tko-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/tko/normal": [
+    {
+      "name": "tko normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/tko/normal/tko normal ChartBF.json"
+    },
+    {
+      "name": "tko normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/tko/normal/tko normal ChartDad.json"
+    },
+    {
+      "name": "tko_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/tko/normal/tko_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/war-of-honour": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/war-of-honour/easy": [
+    {
+      "name": "war-of-honour-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/war-of-honour/easy/war-of-honour-easy normal ChartBF.json"
+    },
+    {
+      "name": "war-of-honour-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/war-of-honour/easy/war-of-honour-easy normal ChartDad.json"
+    },
+    {
+      "name": "war-of-honour-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/war-of-honour/easy/war-of-honour-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/war-of-honour/hard": [
+    {
+      "name": "war-of-honour-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/war-of-honour/hard/war-of-honour-hard normal ChartBF.json"
+    },
+    {
+      "name": "war-of-honour-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/war-of-honour/hard/war-of-honour-hard normal ChartDad.json"
+    },
+    {
+      "name": "war-of-honour-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/war-of-honour/hard/war-of-honour-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/war-of-honour/normal": [
+    {
+      "name": "war-of-honour normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/war-of-honour/normal/war-of-honour normal ChartBF.json"
+    },
+    {
+      "name": "war-of-honour normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/war-of-honour/normal/war-of-honour normal ChartDad.json"
+    },
+    {
+      "name": "war-of-honour_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/war-of-honour/normal/war-of-honour_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/wind-up": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Matt/wind-up/easy": [
+    {
+      "name": "wind-up-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/wind-up/easy/wind-up-easy normal ChartBF.json"
+    },
+    {
+      "name": "wind-up-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/wind-up/easy/wind-up-easy normal ChartDad.json"
+    },
+    {
+      "name": "wind-up-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/wind-up/easy/wind-up-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/wind-up/hard": [
+    {
+      "name": "wind-up-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/wind-up/hard/wind-up-hard normal ChartBF.json"
+    },
+    {
+      "name": "wind-up-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/wind-up/hard/wind-up-hard normal ChartDad.json"
+    },
+    {
+      "name": "wind-up-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/wind-up/hard/wind-up-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Matt/wind-up/normal": [
+    {
+      "name": "wind-up normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/wind-up/normal/wind-up normal ChartBF.json"
+    },
+    {
+      "name": "wind-up normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/wind-up/normal/wind-up normal ChartDad.json"
+    },
+    {
+      "name": "wind-up_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Matt/wind-up/normal/wind-up_normal_metadata.json"
     }
   ],
   "Vs Mouse 2.5": [
