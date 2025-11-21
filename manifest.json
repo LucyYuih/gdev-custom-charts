@@ -14,6 +14,7 @@
     "Nyanstep Recharted - By LucyYuih",
     "OsuSongs",
     "Peculiar colours",
+    "Poppy Funktime",
     "Poppy Funktime (DEMO)",
     "Sayori Explores The World Of FNF Mods",
     "Sunday Night Suicide",
@@ -23,6 +24,7 @@
     "Voiid Chronicles",
     "Vs Agoti",
     "Vs Camellia 2.5",
+    "Vs Flippy",
     "Vs Huggy Wuggy",
     "Vs Huggy Wuggy Expansion",
     "Vs Impostor V4",
@@ -3649,6 +3651,236 @@
       "name": "non-compos-mentis-hard_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Peculiar colours/non-compos-mentis/non-compos-mentis-hard_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime": [
+    "hug-me",
+    "mommytime",
+    "musical-memory",
+    "special-guest"
+  ],
+  "Poppy Funktime/hug-me": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Poppy Funktime/hug-me/easy": [
+    {
+      "name": "hug-me-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/hug-me/easy/hug-me-easy normal ChartBF.json"
+    },
+    {
+      "name": "hug-me-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/hug-me/easy/hug-me-easy normal ChartDad.json"
+    },
+    {
+      "name": "hug-me-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/hug-me/easy/hug-me-easy_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime/hug-me/hard": [
+    {
+      "name": "hug-me-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/hug-me/hard/hug-me-hard normal ChartBF.json"
+    },
+    {
+      "name": "hug-me-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/hug-me/hard/hug-me-hard normal ChartDad.json"
+    },
+    {
+      "name": "hug-me-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/hug-me/hard/hug-me-hard_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime/hug-me/normal": [
+    {
+      "name": "hug-me normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/hug-me/normal/hug-me normal ChartBF.json"
+    },
+    {
+      "name": "hug-me normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/hug-me/normal/hug-me normal ChartDad.json"
+    },
+    {
+      "name": "hug-me_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/hug-me/normal/hug-me_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime/mommytime": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Poppy Funktime/mommytime/easy": [
+    {
+      "name": "mommytime-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/mommytime/easy/mommytime-easy normal ChartBF.json"
+    },
+    {
+      "name": "mommytime-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/mommytime/easy/mommytime-easy normal ChartDad.json"
+    },
+    {
+      "name": "mommytime-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/mommytime/easy/mommytime-easy_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime/mommytime/hard": [
+    {
+      "name": "mommytime-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/mommytime/hard/mommytime-hard normal ChartBF.json"
+    },
+    {
+      "name": "mommytime-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/mommytime/hard/mommytime-hard normal ChartDad.json"
+    },
+    {
+      "name": "mommytime-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/mommytime/hard/mommytime-hard_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime/mommytime/normal": [
+    {
+      "name": "mommytime normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/mommytime/normal/mommytime normal ChartBF.json"
+    },
+    {
+      "name": "mommytime normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/mommytime/normal/mommytime normal ChartDad.json"
+    },
+    {
+      "name": "mommytime_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/mommytime/normal/mommytime_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime/musical-memory": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Poppy Funktime/musical-memory/easy": [
+    {
+      "name": "musical-memory-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/musical-memory/easy/musical-memory-easy normal ChartBF.json"
+    },
+    {
+      "name": "musical-memory-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/musical-memory/easy/musical-memory-easy normal ChartDad.json"
+    },
+    {
+      "name": "musical-memory-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/musical-memory/easy/musical-memory-easy_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime/musical-memory/hard": [
+    {
+      "name": "musical-memory-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/musical-memory/hard/musical-memory-hard normal ChartBF.json"
+    },
+    {
+      "name": "musical-memory-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/musical-memory/hard/musical-memory-hard normal ChartDad.json"
+    },
+    {
+      "name": "musical-memory-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/musical-memory/hard/musical-memory-hard_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime/musical-memory/normal": [
+    {
+      "name": "musical-memory normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/musical-memory/normal/musical-memory normal ChartBF.json"
+    },
+    {
+      "name": "musical-memory normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/musical-memory/normal/musical-memory normal ChartDad.json"
+    },
+    {
+      "name": "musical-memory_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/musical-memory/normal/musical-memory_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime/special-guest": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Poppy Funktime/special-guest/easy": [
+    {
+      "name": "special-guest-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/special-guest/easy/special-guest-easy normal ChartBF.json"
+    },
+    {
+      "name": "special-guest-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/special-guest/easy/special-guest-easy normal ChartDad.json"
+    },
+    {
+      "name": "special-guest-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/special-guest/easy/special-guest-easy_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime/special-guest/hard": [
+    {
+      "name": "special-guest-hard normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/special-guest/hard/special-guest-hard normal ChartBF.json"
+    },
+    {
+      "name": "special-guest-hard normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/special-guest/hard/special-guest-hard normal ChartDad.json"
+    },
+    {
+      "name": "special-guest-hard_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/special-guest/hard/special-guest-hard_normal_metadata.json"
+    }
+  ],
+  "Poppy Funktime/special-guest/normal": [
+    {
+      "name": "special-guest normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/special-guest/normal/special-guest normal ChartBF.json"
+    },
+    {
+      "name": "special-guest normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/special-guest/normal/special-guest normal ChartDad.json"
+    },
+    {
+      "name": "special-guest_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Poppy Funktime/special-guest/normal/special-guest_normal_metadata.json"
     }
   ],
   "Poppy Funktime (DEMO)": [
@@ -7447,6 +7679,187 @@
       "name": "why-do-you-hate-me-hard_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Camellia 2.5/why-do-you-hate-me/why-do-you-hate-me-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Flippy": [
+    "flippin-out",
+    "flippy-roll",
+    "happy-tree-land",
+    "massacre",
+    "unflipped-out"
+  ],
+  "Vs Flippy/flippin-out": [
+    "easy",
+    "normal"
+  ],
+  "Vs Flippy/flippin-out/easy": [
+    {
+      "name": "flippin-out-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippin-out/easy/flippin-out-easy normal ChartBF.json"
+    },
+    {
+      "name": "flippin-out-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippin-out/easy/flippin-out-easy normal ChartDad.json"
+    },
+    {
+      "name": "flippin-out-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippin-out/easy/flippin-out-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Flippy/flippin-out/normal": [
+    {
+      "name": "flippin-out normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippin-out/normal/flippin-out normal ChartBF.json"
+    },
+    {
+      "name": "flippin-out normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippin-out/normal/flippin-out normal ChartDad.json"
+    },
+    {
+      "name": "flippin-out_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippin-out/normal/flippin-out_normal_metadata.json"
+    }
+  ],
+  "Vs Flippy/flippy-roll": [
+    "easy",
+    "normal"
+  ],
+  "Vs Flippy/flippy-roll/easy": [
+    {
+      "name": "flippy-roll-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippy-roll/easy/flippy-roll-easy normal ChartBF.json"
+    },
+    {
+      "name": "flippy-roll-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippy-roll/easy/flippy-roll-easy normal ChartDad.json"
+    },
+    {
+      "name": "flippy-roll-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippy-roll/easy/flippy-roll-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Flippy/flippy-roll/normal": [
+    {
+      "name": "flippy-roll normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippy-roll/normal/flippy-roll normal ChartBF.json"
+    },
+    {
+      "name": "flippy-roll normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippy-roll/normal/flippy-roll normal ChartDad.json"
+    },
+    {
+      "name": "flippy-roll_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/flippy-roll/normal/flippy-roll_normal_metadata.json"
+    }
+  ],
+  "Vs Flippy/happy-tree-land": [
+    "easy",
+    "normal"
+  ],
+  "Vs Flippy/happy-tree-land/easy": [
+    {
+      "name": "happy-tree-land-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/happy-tree-land/easy/happy-tree-land-easy normal ChartBF.json"
+    },
+    {
+      "name": "happy-tree-land-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/happy-tree-land/easy/happy-tree-land-easy normal ChartDad.json"
+    },
+    {
+      "name": "happy-tree-land-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/happy-tree-land/easy/happy-tree-land-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Flippy/happy-tree-land/normal": [
+    {
+      "name": "happy-tree-land normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/happy-tree-land/normal/happy-tree-land normal ChartBF.json"
+    },
+    {
+      "name": "happy-tree-land normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/happy-tree-land/normal/happy-tree-land normal ChartDad.json"
+    },
+    {
+      "name": "happy-tree-land_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/happy-tree-land/normal/happy-tree-land_normal_metadata.json"
+    }
+  ],
+  "Vs Flippy/massacre": [
+    {
+      "name": "massacre normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/massacre/massacre normal ChartBF.json"
+    },
+    {
+      "name": "massacre normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/massacre/massacre normal ChartDad.json"
+    },
+    {
+      "name": "massacre.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/massacre/massacre.aac"
+    },
+    {
+      "name": "massacre_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/massacre/massacre_normal_metadata.json"
+    }
+  ],
+  "Vs Flippy/unflipped-out": [
+    "easy",
+    "normal"
+  ],
+  "Vs Flippy/unflipped-out/easy": [
+    {
+      "name": "unflipped-out-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/unflipped-out/easy/unflipped-out-easy normal ChartBF.json"
+    },
+    {
+      "name": "unflipped-out-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/unflipped-out/easy/unflipped-out-easy normal ChartDad.json"
+    },
+    {
+      "name": "unflipped-out-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/unflipped-out/easy/unflipped-out-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Flippy/unflipped-out/normal": [
+    {
+      "name": "unflipped-out normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/unflipped-out/normal/unflipped-out normal ChartBF.json"
+    },
+    {
+      "name": "unflipped-out normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/unflipped-out/normal/unflipped-out normal ChartDad.json"
+    },
+    {
+      "name": "unflipped-out_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Flippy/unflipped-out/normal/unflipped-out_normal_metadata.json"
     }
   ],
   "Vs Huggy Wuggy": [
