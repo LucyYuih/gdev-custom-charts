@@ -4663,15 +4663,9 @@
     }
   ],
   "soullessfnf": [
-    "ABadAct",
+    "abadact",
     "amalgamation",
-    "anti-cheat-song",
-    "blammed",
-    "bopeebo",
-    "cocoa",
     "crisis-city",
-    "dad-battle",
-    "eggnog",
     "egoless-act-1",
     "egoless-act-10",
     "egoless-act-2",
@@ -4683,22 +4677,11 @@
     "egoless-act-8",
     "egoless-act-9",
     "epidox",
-    "fresh",
-    "guns",
-    "high",
     "hollow",
-    "milf",
     "misadventure",
-    "monster",
     "obsidian",
     "penger",
-    "philly-nice",
-    "pico",
     "prevail",
-    "roses",
-    "satin-panties",
-    "senpai",
-    "smash",
     "soulless",
     "soulless-2",
     "soulless-3",
@@ -4706,185 +4689,143 @@
     "soulless-4-unnerfed",
     "soulless-5",
     "soulless-6",
-    "south",
     "speed-test",
-    "spookeez",
-    "stress",
     "supernovae",
     "supernovae-uber-solo",
-    "test",
-    "thorns",
-    "tutorial",
-    "two-hour-testament",
-    "ugh",
     "victory-solo-x"
   ],
-  "soullessfnf/ABadAct": [
+  "soullessfnf/abadact": [
     {
       "name": "ABadAct-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/ABadAct/ABadAct-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/abadact/ABadAct-hard normal ChartBF.json"
     },
     {
       "name": "ABadAct-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/ABadAct/ABadAct-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/abadact/ABadAct-hard normal ChartDad.json"
     },
     {
       "name": "ABadAct-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/ABadAct/ABadAct-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/abadact/ABadAct-hard_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "abadact.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/ABadAct/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/abadact/abadact.aac"
     }
   ],
   "soullessfnf/amalgamation": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/amalgamation/easy": [
+    {
+      "name": "amalgamation-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/easy/amalgamation-easy normal ChartBF.json"
+    },
+    {
+      "name": "amalgamation-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/easy/amalgamation-easy normal ChartDad.json"
+    },
+    {
+      "name": "amalgamation-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/easy/amalgamation-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/amalgamation/hard": [
     {
       "name": "amalgamation-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/amalgamation-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/hard/amalgamation-hard normal ChartBF.json"
     },
     {
       "name": "amalgamation-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/amalgamation-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/hard/amalgamation-hard normal ChartDad.json"
     },
     {
       "name": "amalgamation-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/amalgamation-hard_normal_metadata.json"
-    },
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/hard/amalgamation-hard_normal_metadata.json"
     }
   ],
-  "soullessfnf/anti-cheat-song": [
+  "soullessfnf/amalgamation/normal": [
     {
-      "name": "anti-cheat-song normal ChartBF.json",
+      "name": "amalgamation normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/anti-cheat-song/anti-cheat-song normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/normal/amalgamation normal ChartBF.json"
     },
     {
-      "name": "anti-cheat-song normal ChartDad.json",
+      "name": "amalgamation normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/anti-cheat-song/anti-cheat-song normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/normal/amalgamation normal ChartDad.json"
     },
     {
-      "name": "anti-cheat-song_normal_metadata.json",
+      "name": "amalgamation_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/anti-cheat-song/anti-cheat-song_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/blammed": [
-    {
-      "name": "blammed-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/blammed/blammed-hard normal ChartBF.json"
-    },
-    {
-      "name": "blammed-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/blammed/blammed-hard normal ChartDad.json"
-    },
-    {
-      "name": "blammed-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/blammed/blammed-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/bopeebo": [
-    {
-      "name": "bopeebo-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/bopeebo/bopeebo-hard normal ChartBF.json"
-    },
-    {
-      "name": "bopeebo-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/bopeebo/bopeebo-hard normal ChartDad.json"
-    },
-    {
-      "name": "bopeebo-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/bopeebo/bopeebo-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/cocoa": [
-    {
-      "name": "cocoa-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/cocoa/cocoa-hard normal ChartBF.json"
-    },
-    {
-      "name": "cocoa-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/cocoa/cocoa-hard normal ChartDad.json"
-    },
-    {
-      "name": "cocoa-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/cocoa/cocoa-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/amalgamation/normal/amalgamation_normal_metadata.json"
     }
   ],
   "soullessfnf/crisis-city": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/crisis-city/easy": [
+    {
+      "name": "crisis-city-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/easy/crisis-city-easy normal ChartBF.json"
+    },
+    {
+      "name": "crisis-city-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/easy/crisis-city-easy normal ChartDad.json"
+    },
+    {
+      "name": "crisis-city-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/easy/crisis-city-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/crisis-city/hard": [
     {
       "name": "crisis-city-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/crisis-city-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/hard/crisis-city-hard normal ChartBF.json"
     },
     {
       "name": "crisis-city-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/crisis-city-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/hard/crisis-city-hard normal ChartDad.json"
     },
     {
       "name": "crisis-city-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/crisis-city-hard_normal_metadata.json"
-    },
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/hard/crisis-city-hard_normal_metadata.json"
     }
   ],
-  "soullessfnf/dad-battle": [
+  "soullessfnf/crisis-city/normal": [
     {
-      "name": "dad-battle-hard normal ChartBF.json",
+      "name": "crisis-city normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/dad-battle/dad-battle-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/normal/crisis-city normal ChartBF.json"
     },
     {
-      "name": "dad-battle-hard normal ChartDad.json",
+      "name": "crisis-city normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/dad-battle/dad-battle-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/normal/crisis-city normal ChartDad.json"
     },
     {
-      "name": "dad-battle-hard_normal_metadata.json",
+      "name": "crisis-city_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/dad-battle/dad-battle-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/eggnog": [
-    {
-      "name": "eggnog-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/eggnog/eggnog-hard normal ChartBF.json"
-    },
-    {
-      "name": "eggnog-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/eggnog/eggnog-hard normal ChartDad.json"
-    },
-    {
-      "name": "eggnog-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/eggnog/eggnog-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/crisis-city/normal/crisis-city_normal_metadata.json"
     }
   ],
   "soullessfnf/egoless-act-1": [
@@ -4904,9 +4845,9 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-1/egoless-act-1-hard_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "egoless-act-1.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-1/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-1/egoless-act-1.aac"
     }
   ],
   "soullessfnf/egoless-act-10": [
@@ -4926,9 +4867,9 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-10/egoless-act-10-hard_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "egoless-act-10.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-10/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-10/egoless-act-10.aac"
     }
   ],
   "soullessfnf/egoless-act-2": [
@@ -4948,9 +4889,9 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-2/egoless-act-2-hard_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "egoless-act-2.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-2/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-2/egoless-act-2.aac"
     }
   ],
   "soullessfnf/egoless-act-3": [
@@ -4970,9 +4911,9 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-3/egoless-act-3-hard_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "egoless-act-3.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-3/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-3/egoless-act-3.aac"
     }
   ],
   "soullessfnf/egoless-act-4": [
@@ -4992,9 +4933,9 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-4/egoless-act-4-hard_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "egoless-act-4.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-4/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-4/egoless-act-4.aac"
     }
   ],
   "soullessfnf/egoless-act-5": [
@@ -5014,9 +4955,9 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-5/egoless-act-5-hard_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "egoless-act-5.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-5/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-5/egoless-act-5.aac"
     }
   ],
   "soullessfnf/egoless-act-6": [
@@ -5036,9 +4977,9 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-6/egoless-act-6-hard_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "egoless-act-6.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-6/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-6/egoless-act-6.aac"
     }
   ],
   "soullessfnf/egoless-act-7": [
@@ -5058,9 +4999,9 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-7/egoless-act-7-hard_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "egoless-act-7.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-7/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-7/egoless-act-7.aac"
     }
   ],
   "soullessfnf/egoless-act-8": [
@@ -5080,9 +5021,9 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-8/egoless-act-8-hard_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "egoless-act-8.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-8/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-8/egoless-act-8.aac"
     }
   ],
   "soullessfnf/egoless-act-9": [
@@ -5102,424 +5043,554 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-9/egoless-act-9-hard_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "egoless-act-9.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-9/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/egoless-act-9/egoless-act-9.aac"
     }
   ],
   "soullessfnf/epidox": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/epidox/easy": [
+    {
+      "name": "epidox-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/easy/epidox-easy normal ChartBF.json"
+    },
+    {
+      "name": "epidox-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/easy/epidox-easy normal ChartDad.json"
+    },
+    {
+      "name": "epidox-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/easy/epidox-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/epidox/hard": [
     {
       "name": "epidox-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/epidox-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/hard/epidox-hard normal ChartBF.json"
     },
     {
       "name": "epidox-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/epidox-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/hard/epidox-hard normal ChartDad.json"
     },
     {
       "name": "epidox-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/epidox-hard_normal_metadata.json"
-    },
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/hard/epidox-hard_normal_metadata.json"
     }
   ],
-  "soullessfnf/fresh": [
+  "soullessfnf/epidox/normal": [
     {
-      "name": "fresh-hard normal ChartBF.json",
+      "name": "epidox normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/fresh/fresh-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/normal/epidox normal ChartBF.json"
     },
     {
-      "name": "fresh-hard normal ChartDad.json",
+      "name": "epidox normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/fresh/fresh-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/normal/epidox normal ChartDad.json"
     },
     {
-      "name": "fresh-hard_normal_metadata.json",
+      "name": "epidox_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/fresh/fresh-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/guns": [
-    {
-      "name": "guns-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/guns/guns-hard normal ChartBF.json"
-    },
-    {
-      "name": "guns-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/guns/guns-hard normal ChartDad.json"
-    },
-    {
-      "name": "guns-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/guns/guns-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/high": [
-    {
-      "name": "high-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/high/high-hard normal ChartBF.json"
-    },
-    {
-      "name": "high-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/high/high-hard normal ChartDad.json"
-    },
-    {
-      "name": "high-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/high/high-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/epidox/normal/epidox_normal_metadata.json"
     }
   ],
   "soullessfnf/hollow": [
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/hollow/hard": [
     {
       "name": "hollow-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/hollow/hollow-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/hollow/hard/hollow-hard normal ChartBF.json"
     },
     {
       "name": "hollow-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/hollow/hollow-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/hollow/hard/hollow-hard normal ChartDad.json"
     },
     {
       "name": "hollow-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/hollow/hollow-hard_normal_metadata.json"
-    },
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/hollow/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/hollow/hard/hollow-hard_normal_metadata.json"
     }
   ],
-  "soullessfnf/milf": [
+  "soullessfnf/hollow/normal": [
     {
-      "name": "milf-hard normal ChartBF.json",
+      "name": "hollow normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/milf/milf-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/hollow/normal/hollow normal ChartBF.json"
     },
     {
-      "name": "milf-hard normal ChartDad.json",
+      "name": "hollow normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/milf/milf-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/hollow/normal/hollow normal ChartDad.json"
     },
     {
-      "name": "milf-hard_normal_metadata.json",
+      "name": "hollow_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/milf/milf-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/hollow/normal/hollow_normal_metadata.json"
     }
   ],
   "soullessfnf/misadventure": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/misadventure/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "misadventure-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/easy/misadventure-easy normal ChartBF.json"
     },
+    {
+      "name": "misadventure-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/easy/misadventure-easy normal ChartDad.json"
+    },
+    {
+      "name": "misadventure-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/easy/misadventure-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/misadventure/hard": [
     {
       "name": "misadventure-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/misadventure-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/hard/misadventure-hard normal ChartBF.json"
     },
     {
       "name": "misadventure-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/misadventure-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/hard/misadventure-hard normal ChartDad.json"
     },
     {
       "name": "misadventure-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/misadventure-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/hard/misadventure-hard_normal_metadata.json"
     }
   ],
-  "soullessfnf/monster": [
+  "soullessfnf/misadventure/normal": [
     {
-      "name": "monster-hard normal ChartBF.json",
+      "name": "misadventure normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/monster/monster-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/normal/misadventure normal ChartBF.json"
     },
     {
-      "name": "monster-hard normal ChartDad.json",
+      "name": "misadventure normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/monster/monster-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/normal/misadventure normal ChartDad.json"
     },
     {
-      "name": "monster-hard_normal_metadata.json",
+      "name": "misadventure_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/monster/monster-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/misadventure/normal/misadventure_normal_metadata.json"
     }
   ],
   "soullessfnf/obsidian": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/obsidian/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "obsidian-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/easy/obsidian-easy normal ChartBF.json"
     },
+    {
+      "name": "obsidian-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/easy/obsidian-easy normal ChartDad.json"
+    },
+    {
+      "name": "obsidian-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/easy/obsidian-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/obsidian/hard": [
     {
       "name": "obsidian-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/obsidian-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/hard/obsidian-hard normal ChartBF.json"
     },
     {
       "name": "obsidian-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/obsidian-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/hard/obsidian-hard normal ChartDad.json"
     },
     {
       "name": "obsidian-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/obsidian-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/hard/obsidian-hard_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/obsidian/normal": [
+    {
+      "name": "obsidian normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/normal/obsidian normal ChartBF.json"
+    },
+    {
+      "name": "obsidian normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/normal/obsidian normal ChartDad.json"
+    },
+    {
+      "name": "obsidian_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/obsidian/normal/obsidian_normal_metadata.json"
     }
   ],
   "soullessfnf/penger": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/penger/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "penger-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/easy/penger-easy normal ChartBF.json"
     },
+    {
+      "name": "penger-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/easy/penger-easy normal ChartDad.json"
+    },
+    {
+      "name": "penger-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/easy/penger-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/penger/hard": [
     {
       "name": "penger-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/penger-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/hard/penger-hard normal ChartBF.json"
     },
     {
       "name": "penger-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/penger-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/hard/penger-hard normal ChartDad.json"
     },
     {
       "name": "penger-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/penger-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/hard/penger-hard_normal_metadata.json"
     }
   ],
-  "soullessfnf/philly-nice": [
+  "soullessfnf/penger/normal": [
     {
-      "name": "philly-nice-hard normal ChartBF.json",
+      "name": "penger normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/philly-nice/philly-nice-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/normal/penger normal ChartBF.json"
     },
     {
-      "name": "philly-nice-hard normal ChartDad.json",
+      "name": "penger normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/philly-nice/philly-nice-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/normal/penger normal ChartDad.json"
     },
     {
-      "name": "philly-nice-hard_normal_metadata.json",
+      "name": "penger_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/philly-nice/philly-nice-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/pico": [
-    {
-      "name": "pico-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/pico/pico-hard normal ChartBF.json"
-    },
-    {
-      "name": "pico-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/pico/pico-hard normal ChartDad.json"
-    },
-    {
-      "name": "pico-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/pico/pico-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/penger/normal/penger_normal_metadata.json"
     }
   ],
   "soullessfnf/prevail": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/prevail/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "prevail-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/easy/prevail-easy normal ChartBF.json"
     },
+    {
+      "name": "prevail-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/easy/prevail-easy normal ChartDad.json"
+    },
+    {
+      "name": "prevail-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/easy/prevail-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/prevail/hard": [
     {
       "name": "prevail-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/prevail-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/hard/prevail-hard normal ChartBF.json"
     },
     {
       "name": "prevail-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/prevail-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/hard/prevail-hard normal ChartDad.json"
     },
     {
       "name": "prevail-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/prevail-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/hard/prevail-hard_normal_metadata.json"
     }
   ],
-  "soullessfnf/roses": [
+  "soullessfnf/prevail/normal": [
     {
-      "name": "roses-hard normal ChartBF.json",
+      "name": "prevail normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/roses/roses-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/normal/prevail normal ChartBF.json"
     },
     {
-      "name": "roses-hard normal ChartDad.json",
+      "name": "prevail normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/roses/roses-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/normal/prevail normal ChartDad.json"
     },
     {
-      "name": "roses-hard_normal_metadata.json",
+      "name": "prevail_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/roses/roses-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/satin-panties": [
-    {
-      "name": "satin-panties-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/satin-panties/satin-panties-hard normal ChartBF.json"
-    },
-    {
-      "name": "satin-panties-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/satin-panties/satin-panties-hard normal ChartDad.json"
-    },
-    {
-      "name": "satin-panties-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/satin-panties/satin-panties-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/senpai": [
-    {
-      "name": "senpai-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/senpai/senpai-hard normal ChartBF.json"
-    },
-    {
-      "name": "senpai-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/senpai/senpai-hard normal ChartDad.json"
-    },
-    {
-      "name": "senpai-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/senpai/senpai-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/smash": [
-    {
-      "name": "smash normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/smash/smash normal ChartBF.json"
-    },
-    {
-      "name": "smash normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/smash/smash normal ChartDad.json"
-    },
-    {
-      "name": "smash_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/smash/smash_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/prevail/normal/prevail_normal_metadata.json"
     }
   ],
   "soullessfnf/soulless": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/soulless/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "soulless-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/easy/soulless-easy normal ChartBF.json"
     },
+    {
+      "name": "soulless-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/easy/soulless-easy normal ChartDad.json"
+    },
+    {
+      "name": "soulless-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/easy/soulless-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/soulless/hard": [
     {
       "name": "soulless-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/soulless-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/hard/soulless-hard normal ChartBF.json"
     },
     {
       "name": "soulless-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/soulless-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/hard/soulless-hard normal ChartDad.json"
     },
     {
       "name": "soulless-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/soulless-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/hard/soulless-hard_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/soulless/normal": [
+    {
+      "name": "soulless normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/normal/soulless normal ChartBF.json"
+    },
+    {
+      "name": "soulless normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/normal/soulless normal ChartDad.json"
+    },
+    {
+      "name": "soulless_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless/normal/soulless_normal_metadata.json"
     }
   ],
   "soullessfnf/soulless-2": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/soulless-2/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "soulless-2-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/easy/soulless-2-easy normal ChartBF.json"
     },
+    {
+      "name": "soulless-2-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/easy/soulless-2-easy normal ChartDad.json"
+    },
+    {
+      "name": "soulless-2-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/easy/soulless-2-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/soulless-2/hard": [
     {
       "name": "soulless-2-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/soulless-2-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/hard/soulless-2-hard normal ChartBF.json"
     },
     {
       "name": "soulless-2-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/soulless-2-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/hard/soulless-2-hard normal ChartDad.json"
     },
     {
       "name": "soulless-2-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/soulless-2-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/hard/soulless-2-hard_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/soulless-2/normal": [
+    {
+      "name": "soulless-2 normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/normal/soulless-2 normal ChartBF.json"
+    },
+    {
+      "name": "soulless-2 normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/normal/soulless-2 normal ChartDad.json"
+    },
+    {
+      "name": "soulless-2_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-2/normal/soulless-2_normal_metadata.json"
     }
   ],
   "soullessfnf/soulless-3": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/soulless-3/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "soulless-3-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/easy/soulless-3-easy normal ChartBF.json"
     },
+    {
+      "name": "soulless-3-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/easy/soulless-3-easy normal ChartDad.json"
+    },
+    {
+      "name": "soulless-3-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/easy/soulless-3-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/soulless-3/hard": [
     {
       "name": "soulless-3-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/soulless-3-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/hard/soulless-3-hard normal ChartBF.json"
     },
     {
       "name": "soulless-3-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/soulless-3-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/hard/soulless-3-hard normal ChartDad.json"
     },
     {
       "name": "soulless-3-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/soulless-3-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/hard/soulless-3-hard_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/soulless-3/normal": [
+    {
+      "name": "soulless-3 normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/normal/soulless-3 normal ChartBF.json"
+    },
+    {
+      "name": "soulless-3 normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/normal/soulless-3 normal ChartDad.json"
+    },
+    {
+      "name": "soulless-3_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-3/normal/soulless-3_normal_metadata.json"
     }
   ],
   "soullessfnf/soulless-4": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/soulless-4/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "soulless-4-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/easy/soulless-4-easy normal ChartBF.json"
     },
+    {
+      "name": "soulless-4-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/easy/soulless-4-easy normal ChartDad.json"
+    },
+    {
+      "name": "soulless-4-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/easy/soulless-4-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/soulless-4/hard": [
     {
       "name": "soulless-4-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/soulless-4-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/hard/soulless-4-hard normal ChartBF.json"
     },
     {
       "name": "soulless-4-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/soulless-4-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/hard/soulless-4-hard normal ChartDad.json"
     },
     {
       "name": "soulless-4-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/soulless-4-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/hard/soulless-4-hard_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/soulless-4/normal": [
+    {
+      "name": "soulless-4 normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/normal/soulless-4 normal ChartBF.json"
+    },
+    {
+      "name": "soulless-4 normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/normal/soulless-4 normal ChartDad.json"
+    },
+    {
+      "name": "soulless-4_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4/normal/soulless-4_normal_metadata.json"
     }
   ],
   "soullessfnf/soulless-4-unnerfed": [
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4-unnerfed/merged_audio.aac"
-    },
     {
       "name": "soulless-4-unnerfed-hard normal ChartBF.json",
       "type": "file",
@@ -5534,153 +5605,238 @@
       "name": "soulless-4-unnerfed-hard_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4-unnerfed/soulless-4-unnerfed-hard_normal_metadata.json"
+    },
+    {
+      "name": "soulless-4-unnerfed.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-4-unnerfed/soulless-4-unnerfed.aac"
     }
   ],
   "soullessfnf/soulless-5": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/soulless-5/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "soulless-5-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/easy/soulless-5-easy normal ChartBF.json"
     },
+    {
+      "name": "soulless-5-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/easy/soulless-5-easy normal ChartDad.json"
+    },
+    {
+      "name": "soulless-5-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/easy/soulless-5-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/soulless-5/hard": [
     {
       "name": "soulless-5-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/soulless-5-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/hard/soulless-5-hard normal ChartBF.json"
     },
     {
       "name": "soulless-5-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/soulless-5-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/hard/soulless-5-hard normal ChartDad.json"
     },
     {
       "name": "soulless-5-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/soulless-5-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/hard/soulless-5-hard_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/soulless-5/normal": [
+    {
+      "name": "soulless-5 normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/normal/soulless-5 normal ChartBF.json"
+    },
+    {
+      "name": "soulless-5 normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/normal/soulless-5 normal ChartDad.json"
+    },
+    {
+      "name": "soulless-5_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-5/normal/soulless-5_normal_metadata.json"
     }
   ],
   "soullessfnf/soulless-6": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/soulless-6/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "soulless-6-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/easy/soulless-6-easy normal ChartBF.json"
     },
+    {
+      "name": "soulless-6-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/easy/soulless-6-easy normal ChartDad.json"
+    },
+    {
+      "name": "soulless-6-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/easy/soulless-6-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/soulless-6/hard": [
     {
       "name": "soulless-6-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/soulless-6-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/hard/soulless-6-hard normal ChartBF.json"
     },
     {
       "name": "soulless-6-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/soulless-6-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/hard/soulless-6-hard normal ChartDad.json"
     },
     {
       "name": "soulless-6-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/soulless-6-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/hard/soulless-6-hard_normal_metadata.json"
     }
   ],
-  "soullessfnf/south": [
+  "soullessfnf/soulless-6/normal": [
     {
-      "name": "south-hard normal ChartBF.json",
+      "name": "soulless-6 normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/south/south-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/normal/soulless-6 normal ChartBF.json"
     },
     {
-      "name": "south-hard normal ChartDad.json",
+      "name": "soulless-6 normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/south/south-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/normal/soulless-6 normal ChartDad.json"
     },
     {
-      "name": "south-hard_normal_metadata.json",
+      "name": "soulless-6_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/south/south-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/soulless-6/normal/soulless-6_normal_metadata.json"
     }
   ],
   "soullessfnf/speed-test": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/speed-test/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "speed-test-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/easy/speed-test-easy normal ChartBF.json"
     },
+    {
+      "name": "speed-test-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/easy/speed-test-easy normal ChartDad.json"
+    },
+    {
+      "name": "speed-test-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/easy/speed-test-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/speed-test/hard": [
     {
       "name": "speed-test-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/speed-test-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/hard/speed-test-hard normal ChartBF.json"
     },
     {
       "name": "speed-test-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/speed-test-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/hard/speed-test-hard normal ChartDad.json"
     },
     {
       "name": "speed-test-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/speed-test-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/hard/speed-test-hard_normal_metadata.json"
     }
   ],
-  "soullessfnf/spookeez": [
+  "soullessfnf/speed-test/normal": [
     {
-      "name": "spookeez-hard normal ChartBF.json",
+      "name": "speed-test normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/spookeez/spookeez-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/normal/speed-test normal ChartBF.json"
     },
     {
-      "name": "spookeez-hard normal ChartDad.json",
+      "name": "speed-test normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/spookeez/spookeez-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/normal/speed-test normal ChartDad.json"
     },
     {
-      "name": "spookeez-hard_normal_metadata.json",
+      "name": "speed-test_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/spookeez/spookeez-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/stress": [
-    {
-      "name": "stress-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/stress/stress-hard normal ChartBF.json"
-    },
-    {
-      "name": "stress-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/stress/stress-hard normal ChartDad.json"
-    },
-    {
-      "name": "stress-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/stress/stress-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/speed-test/normal/speed-test_normal_metadata.json"
     }
   ],
   "soullessfnf/supernovae": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "soullessfnf/supernovae/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "supernovae-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/easy/supernovae-easy normal ChartBF.json"
     },
+    {
+      "name": "supernovae-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/easy/supernovae-easy normal ChartDad.json"
+    },
+    {
+      "name": "supernovae-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/easy/supernovae-easy_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/supernovae/hard": [
     {
       "name": "supernovae-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/supernovae-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/hard/supernovae-hard normal ChartBF.json"
     },
     {
       "name": "supernovae-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/supernovae-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/hard/supernovae-hard normal ChartDad.json"
     },
     {
       "name": "supernovae-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/supernovae-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/hard/supernovae-hard_normal_metadata.json"
+    }
+  ],
+  "soullessfnf/supernovae/normal": [
+    {
+      "name": "supernovae normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/normal/supernovae normal ChartBF.json"
+    },
+    {
+      "name": "supernovae normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/normal/supernovae normal ChartDad.json"
+    },
+    {
+      "name": "supernovae_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae/normal/supernovae_normal_metadata.json"
     }
   ],
   "soullessfnf/supernovae-uber-solo": [
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae-uber-solo/merged_audio.aac"
-    },
     {
       "name": "supernovae-uber-solo-hard normal ChartBF.json",
       "type": "file",
@@ -5695,99 +5851,14 @@
       "name": "supernovae-uber-solo-hard_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae-uber-solo/supernovae-uber-solo-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/test": [
-    {
-      "name": "test-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/test/test-hard normal ChartBF.json"
     },
     {
-      "name": "test-hard normal ChartDad.json",
+      "name": "supernovae-uber-solo.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/test/test-hard normal ChartDad.json"
-    },
-    {
-      "name": "test-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/test/test-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/thorns": [
-    {
-      "name": "thorns-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/thorns/thorns-hard normal ChartBF.json"
-    },
-    {
-      "name": "thorns-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/thorns/thorns-hard normal ChartDad.json"
-    },
-    {
-      "name": "thorns-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/thorns/thorns-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/tutorial": [
-    {
-      "name": "tutorial-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/tutorial/tutorial-hard normal ChartBF.json"
-    },
-    {
-      "name": "tutorial-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/tutorial/tutorial-hard normal ChartDad.json"
-    },
-    {
-      "name": "tutorial-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/tutorial/tutorial-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/two-hour-testament": [
-    {
-      "name": "two-hour-testament-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/two-hour-testament/two-hour-testament-hard normal ChartBF.json"
-    },
-    {
-      "name": "two-hour-testament-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/two-hour-testament/two-hour-testament-hard normal ChartDad.json"
-    },
-    {
-      "name": "two-hour-testament-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/two-hour-testament/two-hour-testament-hard_normal_metadata.json"
-    }
-  ],
-  "soullessfnf/ugh": [
-    {
-      "name": "ugh-hard normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/ugh/ugh-hard normal ChartBF.json"
-    },
-    {
-      "name": "ugh-hard normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/ugh/ugh-hard normal ChartDad.json"
-    },
-    {
-      "name": "ugh-hard_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/ugh/ugh-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/supernovae-uber-solo/supernovae-uber-solo.aac"
     }
   ],
   "soullessfnf/victory-solo-x": [
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/victory-solo-x/merged_audio.aac"
-    },
     {
       "name": "victory-solo-x-hard normal ChartBF.json",
       "type": "file",
@@ -5802,6 +5873,11 @@
       "name": "victory-solo-x-hard_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/victory-solo-x/victory-solo-x-hard_normal_metadata.json"
+    },
+    {
+      "name": "victory-solo-x.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/soullessfnf/victory-solo-x/victory-solo-x.aac"
     }
   ],
   "Sunday Night Suicide": [
