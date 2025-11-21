@@ -3134,14 +3134,12 @@
     "flowering",
     "freedom-dive",
     "freedom-dive2",
-    "import-osu-songs",
-    "jumpstream-of-fighters-vol-2a",
     "marunouchi-survivor",
     "mesheer",
     "onyx-veil--boukyaku-no-yami-",
-    "risk-(mr-bill---itsu-remix)",
+    "risk-mr-bill---itsu-remix",
     "streaming-heart",
-    "we-appreciate-power-(feat-hana)",
+    "we-appreciate-power-feat-hana",
     "yoru-ni-kakeru",
     "young-girl-a"
   ],
@@ -3162,97 +3160,395 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/299-addiction/299-addiction-mirage_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "299-addiction.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/299-addiction/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/299-addiction/299-addiction.aac"
     }
   ],
   "OsuSongs/aegleseeker": [
+    "akashas-primitive",
+    "flevis-future",
+    "past",
+    "present",
+    "seirans-beyond",
+    "the-last-observation"
+  ],
+  "OsuSongs/aegleseeker/akashas-primitive": [
+    {
+      "name": "aegleseeker-akashas-primitive normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/akashas-primitive/aegleseeker-akashas-primitive normal ChartBF.json"
+    },
+    {
+      "name": "aegleseeker-akashas-primitive normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/akashas-primitive/aegleseeker-akashas-primitive normal ChartDad.json"
+    },
+    {
+      "name": "aegleseeker-akashas-primitive_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/akashas-primitive/aegleseeker-akashas-primitive_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/aegleseeker/flevis-future": [
+    {
+      "name": "aegleseeker-flevis-future normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/flevis-future/aegleseeker-flevis-future normal ChartBF.json"
+    },
+    {
+      "name": "aegleseeker-flevis-future normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/flevis-future/aegleseeker-flevis-future normal ChartDad.json"
+    },
+    {
+      "name": "aegleseeker-flevis-future_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/flevis-future/aegleseeker-flevis-future_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/aegleseeker/past": [
+    {
+      "name": "aegleseeker-past normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/past/aegleseeker-past normal ChartBF.json"
+    },
+    {
+      "name": "aegleseeker-past normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/past/aegleseeker-past normal ChartDad.json"
+    },
+    {
+      "name": "aegleseeker-past_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/past/aegleseeker-past_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/aegleseeker/present": [
+    {
+      "name": "aegleseeker-present normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/present/aegleseeker-present normal ChartBF.json"
+    },
+    {
+      "name": "aegleseeker-present normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/present/aegleseeker-present normal ChartDad.json"
+    },
+    {
+      "name": "aegleseeker-present_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/present/aegleseeker-present_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/aegleseeker/seirans-beyond": [
+    {
+      "name": "aegleseeker-seirans-beyond normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/seirans-beyond/aegleseeker-seirans-beyond normal ChartBF.json"
+    },
+    {
+      "name": "aegleseeker-seirans-beyond normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/seirans-beyond/aegleseeker-seirans-beyond normal ChartDad.json"
+    },
+    {
+      "name": "aegleseeker-seirans-beyond_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/seirans-beyond/aegleseeker-seirans-beyond_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/aegleseeker/the-last-observation": [
     {
       "name": "aegleseeker-the-last-observation normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/aegleseeker-the-last-observation normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/the-last-observation/aegleseeker-the-last-observation normal ChartBF.json"
     },
     {
       "name": "aegleseeker-the-last-observation normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/aegleseeker-the-last-observation normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/the-last-observation/aegleseeker-the-last-observation normal ChartDad.json"
     },
     {
       "name": "aegleseeker-the-last-observation_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/aegleseeker-the-last-observation_normal_metadata.json"
-    },
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/aegleseeker/the-last-observation/aegleseeker-the-last-observation_normal_metadata.json"
     }
   ],
   "OsuSongs/decoy": [
+    "delay",
+    "delay-08x",
+    "delay-09x",
+    "delay-11x",
+    "delay-12x"
+  ],
+  "OsuSongs/decoy/delay": [
+    {
+      "name": "decoy-delay normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay/decoy-delay normal ChartBF.json"
+    },
+    {
+      "name": "decoy-delay normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay/decoy-delay normal ChartDad.json"
+    },
+    {
+      "name": "decoy-delay_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay/decoy-delay_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/decoy/delay-08x": [
     {
       "name": "decoy-delay-08x normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/decoy-delay-08x normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-08x/decoy-delay-08x normal ChartBF.json"
     },
     {
       "name": "decoy-delay-08x normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/decoy-delay-08x normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-08x/decoy-delay-08x normal ChartDad.json"
     },
     {
       "name": "decoy-delay-08x_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/decoy-delay-08x_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-08x/decoy-delay-08x_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/decoy/delay-09x": [
+    {
+      "name": "decoy-delay-09x normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-09x/decoy-delay-09x normal ChartBF.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "decoy-delay-09x normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-09x/decoy-delay-09x normal ChartDad.json"
+    },
+    {
+      "name": "decoy-delay-09x_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-09x/decoy-delay-09x_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/decoy/delay-11x": [
+    {
+      "name": "decoy-delay-11x normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-11x/decoy-delay-11x normal ChartBF.json"
+    },
+    {
+      "name": "decoy-delay-11x normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-11x/decoy-delay-11x normal ChartDad.json"
+    },
+    {
+      "name": "decoy-delay-11x_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-11x/decoy-delay-11x_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/decoy/delay-12x": [
+    {
+      "name": "decoy-delay-12x normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-12x/decoy-delay-12x normal ChartBF.json"
+    },
+    {
+      "name": "decoy-delay-12x normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-12x/decoy-delay-12x normal ChartDad.json"
+    },
+    {
+      "name": "decoy-delay-12x_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/decoy/delay-12x/decoy-delay-12x_normal_metadata.json"
     }
   ],
   "OsuSongs/energy-synergy-matrix": [
+    "exnekos-another-es.m",
+    "extra-es.m",
+    "hxjs-hyper-es.m",
+    "spectors-normal-es.m"
+  ],
+  "OsuSongs/energy-synergy-matrix/exnekos-another-es.m": [
+    {
+      "name": "energy-synergy-matrix-exnekos-another-es.m. normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/exnekos-another-es.m/energy-synergy-matrix-exnekos-another-es.m. normal ChartBF.json"
+    },
+    {
+      "name": "energy-synergy-matrix-exnekos-another-es.m. normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/exnekos-another-es.m/energy-synergy-matrix-exnekos-another-es.m. normal ChartDad.json"
+    },
+    {
+      "name": "energy-synergy-matrix-exnekos-another-es.m._normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/exnekos-another-es.m/energy-synergy-matrix-exnekos-another-es.m._normal_metadata.json"
+    }
+  ],
+  "OsuSongs/energy-synergy-matrix/extra-es.m": [
     {
       "name": "energy-synergy-matrix-extra-es.m. normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/energy-synergy-matrix-extra-es.m. normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/extra-es.m/energy-synergy-matrix-extra-es.m. normal ChartBF.json"
     },
     {
       "name": "energy-synergy-matrix-extra-es.m. normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/energy-synergy-matrix-extra-es.m. normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/extra-es.m/energy-synergy-matrix-extra-es.m. normal ChartDad.json"
     },
     {
       "name": "energy-synergy-matrix-extra-es.m._normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/energy-synergy-matrix-extra-es.m._normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/extra-es.m/energy-synergy-matrix-extra-es.m._normal_metadata.json"
+    }
+  ],
+  "OsuSongs/energy-synergy-matrix/hxjs-hyper-es.m": [
+    {
+      "name": "energy-synergy-matrix-hxjs-hyper-es.m. normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/hxjs-hyper-es.m/energy-synergy-matrix-hxjs-hyper-es.m. normal ChartBF.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "energy-synergy-matrix-hxjs-hyper-es.m. normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/hxjs-hyper-es.m/energy-synergy-matrix-hxjs-hyper-es.m. normal ChartDad.json"
+    },
+    {
+      "name": "energy-synergy-matrix-hxjs-hyper-es.m._normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/hxjs-hyper-es.m/energy-synergy-matrix-hxjs-hyper-es.m._normal_metadata.json"
+    }
+  ],
+  "OsuSongs/energy-synergy-matrix/spectors-normal-es.m": [
+    {
+      "name": "energy-synergy-matrix-spectors-normal-es.m. normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/spectors-normal-es.m/energy-synergy-matrix-spectors-normal-es.m. normal ChartBF.json"
+    },
+    {
+      "name": "energy-synergy-matrix-spectors-normal-es.m. normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/spectors-normal-es.m/energy-synergy-matrix-spectors-normal-es.m. normal ChartDad.json"
+    },
+    {
+      "name": "energy-synergy-matrix-spectors-normal-es.m._normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/energy-synergy-matrix/spectors-normal-es.m/energy-synergy-matrix-spectors-normal-es.m._normal_metadata.json"
     }
   ],
   "OsuSongs/eternal-drain": [
+    "another",
+    "beginner",
+    "black-another",
+    "eternal",
+    "hyper",
+    "normal"
+  ],
+  "OsuSongs/eternal-drain/another": [
+    {
+      "name": "eternal-drain-another normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/another/eternal-drain-another normal ChartBF.json"
+    },
+    {
+      "name": "eternal-drain-another normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/another/eternal-drain-another normal ChartDad.json"
+    },
+    {
+      "name": "eternal-drain-another_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/another/eternal-drain-another_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/eternal-drain/beginner": [
+    {
+      "name": "eternal-drain-beginner normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/beginner/eternal-drain-beginner normal ChartBF.json"
+    },
+    {
+      "name": "eternal-drain-beginner normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/beginner/eternal-drain-beginner normal ChartDad.json"
+    },
+    {
+      "name": "eternal-drain-beginner_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/beginner/eternal-drain-beginner_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/eternal-drain/black-another": [
+    {
+      "name": "eternal-drain-black-another normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/black-another/eternal-drain-black-another normal ChartBF.json"
+    },
+    {
+      "name": "eternal-drain-black-another normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/black-another/eternal-drain-black-another normal ChartDad.json"
+    },
+    {
+      "name": "eternal-drain-black-another_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/black-another/eternal-drain-black-another_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/eternal-drain/eternal": [
     {
       "name": "eternal-drain-eternal normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/eternal-drain-eternal normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/eternal/eternal-drain-eternal normal ChartBF.json"
     },
     {
       "name": "eternal-drain-eternal normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/eternal-drain-eternal normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/eternal/eternal-drain-eternal normal ChartDad.json"
     },
     {
       "name": "eternal-drain-eternal_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/eternal-drain-eternal_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/eternal/eternal-drain-eternal_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/eternal-drain/hyper": [
+    {
+      "name": "eternal-drain-hyper normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/hyper/eternal-drain-hyper normal ChartBF.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "eternal-drain-hyper normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/hyper/eternal-drain-hyper normal ChartDad.json"
+    },
+    {
+      "name": "eternal-drain-hyper_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/hyper/eternal-drain-hyper_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/eternal-drain/normal": [
+    {
+      "name": "eternal-drain normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/normal/eternal-drain normal ChartBF.json"
+    },
+    {
+      "name": "eternal-drain normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/normal/eternal-drain normal ChartDad.json"
+    },
+    {
+      "name": "eternal-drain_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/eternal-drain/normal/eternal-drain_normal_metadata.json"
     }
   ],
   "OsuSongs/flowering": [
@@ -3272,97 +3568,157 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/flowering/flowering-myself_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "flowering.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/flowering/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/flowering/flowering.aac"
     }
   ],
   "OsuSongs/freedom-dive": [
+    "4k-another",
+    "4k-hyper",
+    "4k-normal",
+    "fullerenes-4k-dimensions"
+  ],
+  "OsuSongs/freedom-dive/4k-another": [
+    {
+      "name": "freedom-dive-4k-another normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/4k-another/freedom-dive-4k-another normal ChartBF.json"
+    },
+    {
+      "name": "freedom-dive-4k-another normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/4k-another/freedom-dive-4k-another normal ChartDad.json"
+    },
+    {
+      "name": "freedom-dive-4k-another_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/4k-another/freedom-dive-4k-another_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/freedom-dive/4k-hyper": [
+    {
+      "name": "freedom-dive-4k-hyper normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/4k-hyper/freedom-dive-4k-hyper normal ChartBF.json"
+    },
+    {
+      "name": "freedom-dive-4k-hyper normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/4k-hyper/freedom-dive-4k-hyper normal ChartDad.json"
+    },
+    {
+      "name": "freedom-dive-4k-hyper_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/4k-hyper/freedom-dive-4k-hyper_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/freedom-dive/4k-normal": [
+    {
+      "name": "freedom-dive-4k-normal normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/4k-normal/freedom-dive-4k-normal normal ChartBF.json"
+    },
+    {
+      "name": "freedom-dive-4k-normal normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/4k-normal/freedom-dive-4k-normal normal ChartDad.json"
+    },
+    {
+      "name": "freedom-dive-4k-normal_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/4k-normal/freedom-dive-4k-normal_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/freedom-dive/fullerenes-4k-dimensions": [
     {
       "name": "freedom-dive-fullerenes-4k-dimensions normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/freedom-dive-fullerenes-4k-dimensions normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/fullerenes-4k-dimensions/freedom-dive-fullerenes-4k-dimensions normal ChartBF.json"
     },
     {
       "name": "freedom-dive-fullerenes-4k-dimensions normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/freedom-dive-fullerenes-4k-dimensions normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/fullerenes-4k-dimensions/freedom-dive-fullerenes-4k-dimensions normal ChartDad.json"
     },
     {
       "name": "freedom-dive-fullerenes-4k-dimensions_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/freedom-dive-fullerenes-4k-dimensions_normal_metadata.json"
-    },
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive/fullerenes-4k-dimensions/freedom-dive-fullerenes-4k-dimensions_normal_metadata.json"
     }
   ],
   "OsuSongs/freedom-dive2": [
+    "4k-another",
+    "4k-hyper",
+    "4k-normal",
+    "fullerenes-4k-dimensions"
+  ],
+  "OsuSongs/freedom-dive2/4k-another": [
+    {
+      "name": "freedom-dive2-4k-another normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/4k-another/freedom-dive2-4k-another normal ChartBF.json"
+    },
+    {
+      "name": "freedom-dive2-4k-another normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/4k-another/freedom-dive2-4k-another normal ChartDad.json"
+    },
+    {
+      "name": "freedom-dive2-4k-another_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/4k-another/freedom-dive2-4k-another_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/freedom-dive2/4k-hyper": [
+    {
+      "name": "freedom-dive2-4k-hyper normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/4k-hyper/freedom-dive2-4k-hyper normal ChartBF.json"
+    },
+    {
+      "name": "freedom-dive2-4k-hyper normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/4k-hyper/freedom-dive2-4k-hyper normal ChartDad.json"
+    },
+    {
+      "name": "freedom-dive2-4k-hyper_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/4k-hyper/freedom-dive2-4k-hyper_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/freedom-dive2/4k-normal": [
+    {
+      "name": "freedom-dive2-4k-normal normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/4k-normal/freedom-dive2-4k-normal normal ChartBF.json"
+    },
+    {
+      "name": "freedom-dive2-4k-normal normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/4k-normal/freedom-dive2-4k-normal normal ChartDad.json"
+    },
+    {
+      "name": "freedom-dive2-4k-normal_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/4k-normal/freedom-dive2-4k-normal_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/freedom-dive2/fullerenes-4k-dimensions": [
     {
       "name": "freedom-dive2-fullerenes-4k-dimensions normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/freedom-dive2-fullerenes-4k-dimensions normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/fullerenes-4k-dimensions/freedom-dive2-fullerenes-4k-dimensions normal ChartBF.json"
     },
     {
       "name": "freedom-dive2-fullerenes-4k-dimensions normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/freedom-dive2-fullerenes-4k-dimensions normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/fullerenes-4k-dimensions/freedom-dive2-fullerenes-4k-dimensions normal ChartDad.json"
     },
     {
       "name": "freedom-dive2-fullerenes-4k-dimensions_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/freedom-dive2-fullerenes-4k-dimensions_normal_metadata.json"
-    },
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/merged_audio.aac"
-    }
-  ],
-  "OsuSongs/import-osu-songs": [
-    {
-      "name": "import-osu-songs-import-osu-songs normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/import-osu-songs/import-osu-songs-import-osu-songs normal ChartBF.json"
-    },
-    {
-      "name": "import-osu-songs-import-osu-songs normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/import-osu-songs/import-osu-songs-import-osu-songs normal ChartDad.json"
-    },
-    {
-      "name": "import-osu-songs-import-osu-songs_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/import-osu-songs/import-osu-songs-import-osu-songs_normal_metadata.json"
-    },
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/import-osu-songs/merged_audio.aac"
-    }
-  ],
-  "OsuSongs/jumpstream-of-fighters-vol-2a": [
-    {
-      "name": "jumpstream-of-fighters-vol-2a-gumi---happy-hardcore-synthesizer-[blaziken-26] normal ChartBF.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/jumpstream-of-fighters-vol-2a/jumpstream-of-fighters-vol-2a-gumi---happy-hardcore-synthesizer-[blaziken-26] normal ChartBF.json"
-    },
-    {
-      "name": "jumpstream-of-fighters-vol-2a-gumi---happy-hardcore-synthesizer-[blaziken-26] normal ChartDad.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/jumpstream-of-fighters-vol-2a/jumpstream-of-fighters-vol-2a-gumi---happy-hardcore-synthesizer-[blaziken-26] normal ChartDad.json"
-    },
-    {
-      "name": "jumpstream-of-fighters-vol-2a-gumi---happy-hardcore-synthesizer-[blaziken-26]_normal_metadata.json",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/jumpstream-of-fighters-vol-2a/jumpstream-of-fighters-vol-2a-gumi---happy-hardcore-synthesizer-[blaziken-26]_normal_metadata.json"
-    },
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/jumpstream-of-fighters-vol-2a/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/freedom-dive2/fullerenes-4k-dimensions/freedom-dive2-fullerenes-4k-dimensions_normal_metadata.json"
     }
   ],
   "OsuSongs/marunouchi-survivor": [
@@ -3382,39 +3738,104 @@
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/marunouchi-survivor/marunouchi-survivor-seizon-senryaku_normal_metadata.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "marunouchi-survivor.aac",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/marunouchi-survivor/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/marunouchi-survivor/marunouchi-survivor.aac"
     }
   ],
   "OsuSongs/mesheer": [
+    "astronotes",
+    "easy",
+    "famoss-insane",
+    "hard",
+    "normal"
+  ],
+  "OsuSongs/mesheer/astronotes": [
     {
-      "name": "merged_audio.aac",
+      "name": "mesheer-astronotes normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/astronotes/mesheer-astronotes normal ChartBF.json"
     },
+    {
+      "name": "mesheer-astronotes normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/astronotes/mesheer-astronotes normal ChartDad.json"
+    },
+    {
+      "name": "mesheer-astronotes_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/astronotes/mesheer-astronotes_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/mesheer/easy": [
+    {
+      "name": "mesheer-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/easy/mesheer-easy normal ChartBF.json"
+    },
+    {
+      "name": "mesheer-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/easy/mesheer-easy normal ChartDad.json"
+    },
+    {
+      "name": "mesheer-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/easy/mesheer-easy_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/mesheer/famoss-insane": [
+    {
+      "name": "mesheer-famoss-insane normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/famoss-insane/mesheer-famoss-insane normal ChartBF.json"
+    },
+    {
+      "name": "mesheer-famoss-insane normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/famoss-insane/mesheer-famoss-insane normal ChartDad.json"
+    },
+    {
+      "name": "mesheer-famoss-insane_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/famoss-insane/mesheer-famoss-insane_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/mesheer/hard": [
     {
       "name": "mesheer-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/mesheer-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/hard/mesheer-hard normal ChartBF.json"
     },
     {
       "name": "mesheer-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/mesheer-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/hard/mesheer-hard normal ChartDad.json"
     },
     {
       "name": "mesheer-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/mesheer-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/hard/mesheer-hard_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/mesheer/normal": [
+    {
+      "name": "mesheer normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/normal/mesheer normal ChartBF.json"
+    },
+    {
+      "name": "mesheer normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/normal/mesheer normal ChartDad.json"
+    },
+    {
+      "name": "mesheer_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/mesheer/normal/mesheer_normal_metadata.json"
     }
   ],
   "OsuSongs/onyx-veil--boukyaku-no-yami-": [
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/onyx-veil--boukyaku-no-yami-/merged_audio.aac"
-    },
     {
       "name": "onyx-veil--boukyaku-no-yami--dark-abyss normal ChartBF.json",
       "type": "file",
@@ -3429,116 +3850,256 @@
       "name": "onyx-veil--boukyaku-no-yami--dark-abyss_normal_metadata.json",
       "type": "file",
       "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/onyx-veil--boukyaku-no-yami-/onyx-veil--boukyaku-no-yami--dark-abyss_normal_metadata.json"
+    },
+    {
+      "name": "onyx-veil--boukyaku-no-yami-.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/onyx-veil--boukyaku-no-yami-/onyx-veil--boukyaku-no-yami-.aac"
     }
   ],
-  "OsuSongs/risk-(mr-bill---itsu-remix)": [
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/risk-(mr-bill---itsu-remix)/merged_audio.aac"
-    },
+  "OsuSongs/risk-mr-bill---itsu-remix": [
     {
       "name": "risk-(mr-bill---itsu-remix)-radical normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/risk-(mr-bill---itsu-remix)/risk-(mr-bill---itsu-remix)-radical normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/risk-mr-bill---itsu-remix/risk-(mr-bill---itsu-remix)-radical normal ChartBF.json"
     },
     {
       "name": "risk-(mr-bill---itsu-remix)-radical normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/risk-(mr-bill---itsu-remix)/risk-(mr-bill---itsu-remix)-radical normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/risk-mr-bill---itsu-remix/risk-(mr-bill---itsu-remix)-radical normal ChartDad.json"
     },
     {
       "name": "risk-(mr-bill---itsu-remix)-radical_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/risk-(mr-bill---itsu-remix)/risk-(mr-bill---itsu-remix)-radical_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/risk-mr-bill---itsu-remix/risk-(mr-bill---itsu-remix)-radical_normal_metadata.json"
+    },
+    {
+      "name": "risk-mr-bill---itsu-remix.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/risk-mr-bill---itsu-remix/risk-mr-bill---itsu-remix.aac"
     }
   ],
   "OsuSongs/streaming-heart": [
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/merged_audio.aac"
-    },
+    "crispers-hard",
+    "extra",
+    "hanas-insane"
+  ],
+  "OsuSongs/streaming-heart/crispers-hard": [
     {
       "name": "streaming-heart-crispers-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/streaming-heart-crispers-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/crispers-hard/streaming-heart-crispers-hard normal ChartBF.json"
     },
     {
       "name": "streaming-heart-crispers-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/streaming-heart-crispers-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/crispers-hard/streaming-heart-crispers-hard normal ChartDad.json"
     },
     {
       "name": "streaming-heart-crispers-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/streaming-heart-crispers-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/crispers-hard/streaming-heart-crispers-hard_normal_metadata.json"
     }
   ],
-  "OsuSongs/we-appreciate-power-(feat-hana)": [
+  "OsuSongs/streaming-heart/extra": [
     {
-      "name": "merged_audio.aac",
+      "name": "streaming-heart-extra normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/we-appreciate-power-(feat-hana)/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/extra/streaming-heart-extra normal ChartBF.json"
     },
+    {
+      "name": "streaming-heart-extra normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/extra/streaming-heart-extra normal ChartDad.json"
+    },
+    {
+      "name": "streaming-heart-extra_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/extra/streaming-heart-extra_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/streaming-heart/hanas-insane": [
+    {
+      "name": "streaming-heart-hanas-insane normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/hanas-insane/streaming-heart-hanas-insane normal ChartBF.json"
+    },
+    {
+      "name": "streaming-heart-hanas-insane normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/hanas-insane/streaming-heart-hanas-insane normal ChartDad.json"
+    },
+    {
+      "name": "streaming-heart-hanas-insane_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/streaming-heart/hanas-insane/streaming-heart-hanas-insane_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/we-appreciate-power-feat-hana": [
     {
       "name": "we-appreciate-power-(feat-hana)-amaranth normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/we-appreciate-power-(feat-hana)/we-appreciate-power-(feat-hana)-amaranth normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/we-appreciate-power-feat-hana/we-appreciate-power-(feat-hana)-amaranth normal ChartBF.json"
     },
     {
       "name": "we-appreciate-power-(feat-hana)-amaranth normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/we-appreciate-power-(feat-hana)/we-appreciate-power-(feat-hana)-amaranth normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/we-appreciate-power-feat-hana/we-appreciate-power-(feat-hana)-amaranth normal ChartDad.json"
     },
     {
       "name": "we-appreciate-power-(feat-hana)-amaranth_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/we-appreciate-power-(feat-hana)/we-appreciate-power-(feat-hana)-amaranth_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/we-appreciate-power-feat-hana/we-appreciate-power-(feat-hana)-amaranth_normal_metadata.json"
+    },
+    {
+      "name": "we-appreciate-power-feat-hana.aac",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/we-appreciate-power-feat-hana/we-appreciate-power-feat-hana.aac"
     }
   ],
   "OsuSongs/yoru-ni-kakeru": [
-    {
-      "name": "merged_audio.aac",
-      "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/merged_audio.aac"
-    },
+    "a-lonely-night",
+    "a-lonely-night.-x1.1",
+    "a-lonely-night.-x1.2",
+    "a-lonely-night.-x1.3",
+    "a-lonely-night.-x1.4"
+  ],
+  "OsuSongs/yoru-ni-kakeru/a-lonely-night": [
     {
       "name": "yoru-ni-kakeru-a-lonely-night. normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/yoru-ni-kakeru-a-lonely-night. normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night/yoru-ni-kakeru-a-lonely-night. normal ChartBF.json"
     },
     {
       "name": "yoru-ni-kakeru-a-lonely-night. normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/yoru-ni-kakeru-a-lonely-night. normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night/yoru-ni-kakeru-a-lonely-night. normal ChartDad.json"
     },
     {
       "name": "yoru-ni-kakeru-a-lonely-night._normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/yoru-ni-kakeru-a-lonely-night._normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night/yoru-ni-kakeru-a-lonely-night._normal_metadata.json"
+    }
+  ],
+  "OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.1": [
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.1 normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.1/yoru-ni-kakeru-a-lonely-night.-x1.1 normal ChartBF.json"
+    },
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.1 normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.1/yoru-ni-kakeru-a-lonely-night.-x1.1 normal ChartDad.json"
+    },
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.1_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.1/yoru-ni-kakeru-a-lonely-night.-x1.1_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.2": [
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.2 normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.2/yoru-ni-kakeru-a-lonely-night.-x1.2 normal ChartBF.json"
+    },
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.2 normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.2/yoru-ni-kakeru-a-lonely-night.-x1.2 normal ChartDad.json"
+    },
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.2_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.2/yoru-ni-kakeru-a-lonely-night.-x1.2_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.3": [
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.3 normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.3/yoru-ni-kakeru-a-lonely-night.-x1.3 normal ChartBF.json"
+    },
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.3 normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.3/yoru-ni-kakeru-a-lonely-night.-x1.3 normal ChartDad.json"
+    },
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.3_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.3/yoru-ni-kakeru-a-lonely-night.-x1.3_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.4": [
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.4 normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.4/yoru-ni-kakeru-a-lonely-night.-x1.4 normal ChartBF.json"
+    },
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.4 normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.4/yoru-ni-kakeru-a-lonely-night.-x1.4 normal ChartDad.json"
+    },
+    {
+      "name": "yoru-ni-kakeru-a-lonely-night.-x1.4_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/yoru-ni-kakeru/a-lonely-night.-x1.4/yoru-ni-kakeru-a-lonely-night.-x1.4_normal_metadata.json"
     }
   ],
   "OsuSongs/young-girl-a": [
+    "normal",
+    "your-voice-is"
+  ],
+  "OsuSongs/young-girl-a/normal": [
     {
-      "name": "merged_audio.aac",
+      "name": "young-girl-a normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/normal/young-girl-a normal ChartBF.json"
+    },
+    {
+      "name": "young-girl-a normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/normal/young-girl-a normal ChartDad.json"
+    },
+    {
+      "name": "young-girl-a_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/normal/young-girl-a_normal_metadata.json"
+    }
+  ],
+  "OsuSongs/young-girl-a/your-voice-is": [
+    {
+      "name": "young-girl-a-your-voice-is normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/your-voice-is/young-girl-a-your-voice-is normal ChartBF.json"
+    },
+    {
+      "name": "young-girl-a-your-voice-is normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/your-voice-is/young-girl-a-your-voice-is normal ChartDad.json"
     },
     {
       "name": "young-girl-a-your-voice-is. normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/young-girl-a-your-voice-is. normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/your-voice-is/young-girl-a-your-voice-is. normal ChartBF.json"
     },
     {
       "name": "young-girl-a-your-voice-is. normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/young-girl-a-your-voice-is. normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/your-voice-is/young-girl-a-your-voice-is. normal ChartDad.json"
     },
     {
       "name": "young-girl-a-your-voice-is._normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/young-girl-a-your-voice-is._normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/your-voice-is/young-girl-a-your-voice-is._normal_metadata.json"
+    },
+    {
+      "name": "young-girl-a-your-voice-is_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/OsuSongs/young-girl-a/your-voice-is/young-girl-a-your-voice-is_normal_metadata.json"
     }
   ],
   "Peculiar colours": [
