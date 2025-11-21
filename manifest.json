@@ -6760,97 +6760,323 @@
     }
   ],
   "Vs Agoti": [
-    "a-g-o-t-i",
+    "a.g.o.t.i",
     "guns",
     "parasite",
     "screenplay"
   ],
-  "Vs Agoti/a-g-o-t-i": [
+  "Vs Agoti/a.g.o.t.i": [
+    "expert",
+    "hard",
+    "insane",
+    "normal"
+  ],
+  "Vs Agoti/a.g.o.t.i/expert": [
+    {
+      "name": "a-g-o-t-i-expert normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/expert/a-g-o-t-i-expert normal ChartBF.json"
+    },
+    {
+      "name": "a-g-o-t-i-expert normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/expert/a-g-o-t-i-expert normal ChartDad.json"
+    },
+    {
+      "name": "a-g-o-t-i-expert_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/expert/a-g-o-t-i-expert_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/a.g.o.t.i/hard": [
     {
       "name": "a-g-o-t-i-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a-g-o-t-i/a-g-o-t-i-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/hard/a-g-o-t-i-hard normal ChartBF.json"
     },
     {
       "name": "a-g-o-t-i-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a-g-o-t-i/a-g-o-t-i-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/hard/a-g-o-t-i-hard normal ChartDad.json"
     },
     {
       "name": "a-g-o-t-i-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a-g-o-t-i/a-g-o-t-i-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/hard/a-g-o-t-i-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/a.g.o.t.i/insane": [
+    {
+      "name": "a-g-o-t-i-insane normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/insane/a-g-o-t-i-insane normal ChartBF.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "a-g-o-t-i-insane normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a-g-o-t-i/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/insane/a-g-o-t-i-insane normal ChartDad.json"
+    },
+    {
+      "name": "a-g-o-t-i-insane_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/insane/a-g-o-t-i-insane_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/a.g.o.t.i/normal": [
+    {
+      "name": "a.g.o.t.i normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/normal/a.g.o.t.i normal ChartBF.json"
+    },
+    {
+      "name": "a.g.o.t.i normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/normal/a.g.o.t.i normal ChartDad.json"
+    },
+    {
+      "name": "a.g.o.t.i_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/a.g.o.t.i/normal/a.g.o.t.i_normal_metadata.json"
     }
   ],
   "Vs Agoti/guns": [
+    "easy",
+    "hard",
+    "normal"
+  ],
+  "Vs Agoti/guns/easy": [
+    {
+      "name": "guns-easy normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/easy/guns-easy normal ChartBF.json"
+    },
+    {
+      "name": "guns-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/easy/guns-easy normal ChartDad.json"
+    },
+    {
+      "name": "guns-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/easy/guns-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/guns/hard": [
     {
       "name": "guns-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/guns-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/hard/guns-hard normal ChartBF.json"
     },
     {
       "name": "guns-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/guns-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/hard/guns-hard normal ChartDad.json"
     },
     {
       "name": "guns-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/guns-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/hard/guns-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/guns/normal": [
+    {
+      "name": "guns normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/normal/guns normal ChartBF.json"
     },
     {
-      "name": "merged_audio.aac",
+      "name": "guns normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/normal/guns normal ChartDad.json"
+    },
+    {
+      "name": "guns_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/guns/normal/guns_normal_metadata.json"
     }
   ],
   "Vs Agoti/parasite": [
+    "easy",
+    "expert",
+    "hard",
+    "insane",
+    "normal"
+  ],
+  "Vs Agoti/parasite/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "parasite-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/easy/parasite-easy normal ChartBF.json"
     },
+    {
+      "name": "parasite-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/easy/parasite-easy normal ChartDad.json"
+    },
+    {
+      "name": "parasite-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/easy/parasite-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/parasite/expert": [
+    {
+      "name": "parasite-expert normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/expert/parasite-expert normal ChartBF.json"
+    },
+    {
+      "name": "parasite-expert normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/expert/parasite-expert normal ChartDad.json"
+    },
+    {
+      "name": "parasite-expert_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/expert/parasite-expert_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/parasite/hard": [
     {
       "name": "parasite-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/parasite-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/hard/parasite-hard normal ChartBF.json"
     },
     {
       "name": "parasite-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/parasite-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/hard/parasite-hard normal ChartDad.json"
     },
     {
       "name": "parasite-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/parasite-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/hard/parasite-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/parasite/insane": [
+    {
+      "name": "parasite-insane normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/insane/parasite-insane normal ChartBF.json"
+    },
+    {
+      "name": "parasite-insane normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/insane/parasite-insane normal ChartDad.json"
+    },
+    {
+      "name": "parasite-insane_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/insane/parasite-insane_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/parasite/normal": [
+    {
+      "name": "parasite normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/normal/parasite normal ChartBF.json"
+    },
+    {
+      "name": "parasite normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/normal/parasite normal ChartDad.json"
+    },
+    {
+      "name": "parasite_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/parasite/normal/parasite_normal_metadata.json"
     }
   ],
   "Vs Agoti/screenplay": [
+    "easy",
+    "expert",
+    "hard",
+    "insane",
+    "normal"
+  ],
+  "Vs Agoti/screenplay/easy": [
     {
-      "name": "merged_audio.aac",
+      "name": "screenplay-easy normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/merged_audio.aac"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/easy/screenplay-easy normal ChartBF.json"
     },
+    {
+      "name": "screenplay-easy normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/easy/screenplay-easy normal ChartDad.json"
+    },
+    {
+      "name": "screenplay-easy_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/easy/screenplay-easy_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/screenplay/expert": [
+    {
+      "name": "screenplay-expert normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/expert/screenplay-expert normal ChartBF.json"
+    },
+    {
+      "name": "screenplay-expert normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/expert/screenplay-expert normal ChartDad.json"
+    },
+    {
+      "name": "screenplay-expert_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/expert/screenplay-expert_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/screenplay/hard": [
     {
       "name": "screenplay-hard normal ChartBF.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/screenplay-hard normal ChartBF.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/hard/screenplay-hard normal ChartBF.json"
     },
     {
       "name": "screenplay-hard normal ChartDad.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/screenplay-hard normal ChartDad.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/hard/screenplay-hard normal ChartDad.json"
     },
     {
       "name": "screenplay-hard_normal_metadata.json",
       "type": "file",
-      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/screenplay-hard_normal_metadata.json"
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/hard/screenplay-hard_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/screenplay/insane": [
+    {
+      "name": "screenplay-insane normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/insane/screenplay-insane normal ChartBF.json"
+    },
+    {
+      "name": "screenplay-insane normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/insane/screenplay-insane normal ChartDad.json"
+    },
+    {
+      "name": "screenplay-insane_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/insane/screenplay-insane_normal_metadata.json"
+    }
+  ],
+  "Vs Agoti/screenplay/normal": [
+    {
+      "name": "screenplay normal ChartBF.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/normal/screenplay normal ChartBF.json"
+    },
+    {
+      "name": "screenplay normal ChartDad.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/normal/screenplay normal ChartDad.json"
+    },
+    {
+      "name": "screenplay_normal_metadata.json",
+      "type": "file",
+      "url": "https://cdn.jsdelivr.net/gh/LucyYuih/gdev-custom-charts@main/Vs Agoti/screenplay/normal/screenplay_normal_metadata.json"
     }
   ],
   "Vs Camellia 2.5": [
